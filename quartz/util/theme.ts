@@ -4,9 +4,14 @@ export interface ColorScheme {
   gray: string
   darkgray: string
   dark: string
+  yellow: string
+  primary: string
   secondary: string
   tertiary: string
+  linkcolor: string
+  linkbackground: string
   highlight: string
+  fontweight: string
 }
 
 interface Colors {
@@ -46,13 +51,17 @@ ${stylesheet.join("\n\n")}
   --gray: ${theme.colors.lightMode.gray};
   --darkgray: ${theme.colors.lightMode.darkgray};
   --dark: ${theme.colors.lightMode.dark};
+  --yellow: ${theme.colors.lightMode.yellow};
+  --primary: ${theme.colors.lightMode.primary};
   --secondary: ${theme.colors.lightMode.secondary};
   --tertiary: ${theme.colors.lightMode.tertiary};
+  --linkcolor: ${theme.colors.lightMode.linkcolor};
+  --linkbackground: ${theme.colors.lightMode.linkbackground};
   --highlight: ${theme.colors.lightMode.highlight};
-
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
+  --fontweight: "${theme.typography.body}";
 }
 
 :root[saved-theme="dark"] {
@@ -61,9 +70,14 @@ ${stylesheet.join("\n\n")}
   --gray: ${theme.colors.darkMode.gray};
   --darkgray: ${theme.colors.darkMode.darkgray};
   --dark: ${theme.colors.darkMode.dark};
+  --yellow: ${theme.colors.darkMode.yellow};
+  --primary: ${theme.colors.darkMode.primary};
   --secondary: ${theme.colors.darkMode.secondary};
   --tertiary: ${theme.colors.darkMode.tertiary};
+  --linkcolor: ${theme.colors.darkMode.linkcolor};
+  --linkbackground: ${theme.colors.darkMode.linkbackground};
   --highlight: ${theme.colors.darkMode.highlight};
+  --fontweight: "${theme.typography.body}";
 }
 `
 }
