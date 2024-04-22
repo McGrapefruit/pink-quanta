@@ -70,7 +70,7 @@ I was a professional magician at the time – and what's magic, other than psych
 I did not persuite the career of a therapist as it was my wish when started my studies, tho there is no day where I am not thinking about psychology and related topics.
 
 **Special topics that spark my interest**
-- Interpersonal differences between our perception of "reality" (and the philosophical question of what is reality)
+- Interpersonal differences between our perception of "reality" (and the philosophical question of what reality is)
 - How we humans are biased in our perception about everything 
 - How we handle Emotions
 - How we approach Goals

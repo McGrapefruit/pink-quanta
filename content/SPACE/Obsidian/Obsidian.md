@@ -6,7 +6,8 @@ private: false
 language: English
 title: Obsidian
 type: 
-related-to: 
+related-to:
+  - "[[index]]"
 tags:
   - Obsidian
 ---
