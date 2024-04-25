@@ -62,6 +62,7 @@ Also the pages consist of many QUANTA (chunks), therefore a clean but also disti
 - [ ] Add a site Icon, which is only displayed on Desktop (left sidebar) but is hidden on mobile
 	- `Component.DesktopOnly(Component.SiteLogo(),` is not working properly, also displayes it on mobile
 - [ ] Make the darkmode the default option for new users visiting the page
+- [ ] Weird behaviour on desktop (both on my 14" mac and 24" screen, all browsers): when the page is displayed at 100% the "mobile version" is shown, with a Header & Footer and no sidebars. Only if I zoom out to 90%, both sidebars get visible. I want to have this as a default, that desktop always gets a desktop view.
 - [ ] Change the styling of the site title --> ==PINK==QUANTA
 	- its the same color as my links atm since it is wrapped in `<a>`. Dont know how to fix yet
 - [ ] Different body-font-weights for dark/light mode
