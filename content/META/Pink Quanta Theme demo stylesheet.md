@@ -19,7 +19,7 @@ This page also serves as my project-notes for further theme developement.
 
 I am not quite happy with it yet to be honest. The design is still all over the place. I am publishing it tho, in hopes others might have useful input for me as well.
 
-I'd love to hear from you. **Feel free to contact me, if you got any feedback or just wanna have a nerdy conversation about design psychology / philosophy**
+I'd love to hear from you. **Feel free to contact me, if you got any feedback or just wanna have a nerdy conversation about design psychology / philosophy.**
 
 
 
@@ -42,7 +42,7 @@ Our brain is programmed to focus on stimuli which stand out.
 > – Author title
 
 
-The goal of the Pink Quanta design is to **empazise central information** easily, so that **== the reader can== grasp the content fast** and is able to decide, if a long text is interesting to him and ==decide if it is worth his time==.
+The goal of the Pink Quanta design is to **empazise central information** easily, so that ==the reader can== **grasp the content fast** and is able to decide, if a long text is interesting to him and ==decide if it is worth his time==.
 
 Also the pages consist of many QUANTA (chunks), therefore a clean but also distinguishable layout is important to me.
 
@@ -57,23 +57,25 @@ Also the pages consist of many QUANTA (chunks), therefore a clean but also disti
 - [x] Convert my Obsidian-CSS to SCSS for quartz
 	- [x] Heading stylings
 	- [x] Colors
-- [ ] Add a site Icon
-- [ ] Change the styling of the site name
-	- atm its the same color as my links - i dont like that
-- [ ] Different body-font-weights for dark/light mode
-	- This one seems quite tricky with quartz - havent managed to create variables besides colors
-	- ATm its either too thin for lightmode or to fat for darkmode.
+- [ ] Add a site Icon, which is only displayed on Desktop (left sidebar) but is hidden on mobile 
+	- `Component.DesktopOnly(Component.SiteLogo(),` is not working properly, also displayes it on mobile
 - [ ] Make the darkmode the default option for new users visiting the page
+- [ ] Change the styling of the site title --> ==PINK==QUANTA
+	- its the same color as my links atm since it is wrapped in `<a>`. Dont know how to fix yet
+- [ ] Different body-font-weights for dark/light mode
+	- ATm its either too thin for lightmode or to fat for darkmode.
+	- This one seems quite tricky with quartz - havent managed to create variables besides colors that work within the `custom.css` yet. 
 - [ ] Create MOC-Layout w/ short summaries of the pages
 	- I really love how David Buchan solved this one in his [Quantum Garden](https://quantumgardener.info/landscapes/expand-my-way-of-being)
-- [ ] Figure out how to sort via/query metadata
+- [ ] Figure out how to sort/query via metadata
+	- Automated MOCs displaying pages filtered through "SQL"-queries / based on YAML
 	- still need a good method to distinguish articles in English & German
 - [ ] Change how embeds are displayed
 	- the left border seem not to be working - maybe my blockquote styling broke something
 
 Bonus Points:
 
-How to switch out an image depending on light/darkmode?
+Switch out images depending on light/darkmode.
 I.e. this image does not work in lightmode:
 
 ![[KALEIDOS-20240315222641542.png|200]]
