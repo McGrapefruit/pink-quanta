@@ -1,15 +1,17 @@
 ---
+aliases:
+  - Pink Quanta style sheet
+  - stylesheet
+  - test sheet
 date_created: 2024-02-10  04:38:54
-date_modified: 2024-04-11  16:18:17
+date_modified: 2024-04-25  20:56:39
 draft: 
 language: 
-title: Pink Quanta Theme demo stylesheet
+title: Pink Quanta Theme
 type: 
 related-to: 
 tags:
   - Hashtag
-aliases:
-  - Pink Quanta Theme
 ---
 
 
@@ -31,14 +33,14 @@ Before you read further:
 
 **This theme is designed to be used primarily in darkmode, to fully emerse with the content.** (Use the "sunny" icon near the search function)
 
-The styling of my System/theme follows one simple rule: [[Pink Quanta Theme demo stylesheet|Blue is used for Links and references (WHERE & WHAT)]], ==PINK is the indicator(HOW/WHY).==
+The styling of my System/theme follows one simple rule: [[Pink Quanta Theme|Blue is used for Links and references (WHERE & WHAT)]], ==PINK is the indicator(HOW/WHY).==
 
 How do we know something is important? Through contrast.
 Our brain is programmed to focus on stimuli which stand out.
 
 > Block-Quotes  
 > Its important to me, that external sources / quotes are well recognized as such. Therefore the sorta-APA-styling.
-> 
+>
 > – Author title
 
 
@@ -57,14 +59,14 @@ Also the pages consist of many QUANTA (chunks), therefore a clean but also disti
 - [x] Convert my Obsidian-CSS to SCSS for quartz
 	- [x] Heading stylings
 	- [x] Colors
-- [ ] Add a site Icon, which is only displayed on Desktop (left sidebar) but is hidden on mobile 
+- [ ] Add a site Icon, which is only displayed on Desktop (left sidebar) but is hidden on mobile
 	- `Component.DesktopOnly(Component.SiteLogo(),` is not working properly, also displayes it on mobile
 - [ ] Make the darkmode the default option for new users visiting the page
 - [ ] Change the styling of the site title --> ==PINK==QUANTA
 	- its the same color as my links atm since it is wrapped in `<a>`. Dont know how to fix yet
 - [ ] Different body-font-weights for dark/light mode
 	- ATm its either too thin for lightmode or to fat for darkmode.
-	- This one seems quite tricky with quartz - havent managed to create variables besides colors that work within the `custom.css` yet. 
+	- This one seems quite tricky with quartz - havent managed to create variables besides colors that work within the `custom.css` yet.
 - [ ] Create MOC-Layout w/ short summaries of the pages
 	- I really love how David Buchan solved this one in his [Quantum Garden](https://quantumgardener.info/landscapes/expand-my-way-of-being)
 - [ ] Figure out how to sort/query via metadata
@@ -83,8 +85,7 @@ I.e. this image does not work in lightmode:
 
 
 > [!NOTE] This callout is also not quite right
-> I have no clue how to fit it, the text within the `<p>`  in the callout `.callout[data-callout=note]` has the same color as the tile
-
+> I have no clue how to fit it, the text within the `<p>` in the callout `.callout[data-callout=note]` has the same color as the tile
 
 # HOW I Structure my notes
 
@@ -93,7 +94,7 @@ At the start of a note I often describe the purpose, overview & status quo of th
 - general info
     - Mostly just some sorted lists
         - Sublists are great to build a quick structure!
-- [[Pink Quanta Theme demo stylesheet|Quicklinks]]
+- [[Pink Quanta Theme|Quicklinks]]
     - people
     - related Projects
 
@@ -126,7 +127,6 @@ I also use Dataview to display a table of contents if the note happens to be a M
 >
 >
 
-
 # H1: Separates MAIN Topics within a large Note
 
 ## Heading 2: Is used as my "H1"
@@ -138,7 +138,6 @@ I also use Dataview to display a table of contents if the note happens to be a M
 ##### Heading 5: USED FOR DEFINITIONS or single atomic pieces of text within a large paper (will be same color as a Link to an atomic-note when embedded)
 
 ###### Heading 6: is monospace (and not used very often. it is yellow atm, but that gives it a little too much meaning)
-
 
 # Demo content for styling tests
 

@@ -39,7 +39,7 @@ I read a lot about people struggling with the variety of the offered options and
 
 When I build my obsidian, I did not only focus on the system itself - how the data & information is organized, but also how it is presented/displayed.
 
-I tried to use psychological concepts while designing my [[Pink Quanta Theme demo stylesheet|Pink Quanta Theme]]:
+I tried to use psychological concepts while designing my [[Pink Quanta Theme|Pink Quanta Theme]]:
 How do we know something is important? Through contrast.
 Our brain is programmed to focus on stimuli which stand out.
 
