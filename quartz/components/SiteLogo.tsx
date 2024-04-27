@@ -1,7 +1,7 @@
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function SiteLogo({ cfg, fileData }: QuartzComponentProps) {
-  const ogImagePath = `https://mcgrapefruit.github.io/pink-quanta/static/pinkquanta_typelogo_300x35.png`
+  const ogImagePath = `https://mcgrapefruit.github.io/pink-quanta/static/pinkquanta_typelogo_300x100.png`
   return <div><a href="https://mcgrapefruit.github.io/pink-quanta/"><img class="site-logo" src={ogImagePath} alt="Return to Home Page"></img></a></div>
 }
 SiteLogo.css = `
