@@ -488,8 +488,13 @@ hr {
 img {
     border-radius: 2px;
     max-width: 100%;
-    margin: 1rem 0;
     // box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
 }
 
 
+.search {
+    flex-grow: .3;
+    min-width: -moz-fit-content;
+    min-width: fit-content;
+    max-width: none;
+}

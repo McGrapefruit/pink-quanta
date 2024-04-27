@@ -27,6 +27,7 @@ Pleasure to meet you!
 **Before your read further:** **Consider using this site in darkmode, to fully emerse with the content.** (The sunny icon near the search function)
 
 The color-design follows one simple rule:
+
 [[index|Blue is for reference WHERE &WHAT]], ==PINK is the indicator (HOW/WHY).==
 
 
