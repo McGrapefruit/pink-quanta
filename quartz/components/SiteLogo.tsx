@@ -6,8 +6,9 @@ function SiteLogo({ cfg, fileData }: QuartzComponentProps) {
 }
 SiteLogo.css = `
 .site-logo {
-  margin: 1rem 1rem 0 0;
-  text-align: centre;
+  margin: 0rem 0rem 0 0;
+  text-align: center;
+  display: flex;
   
 }
 `
