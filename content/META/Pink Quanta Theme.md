@@ -27,7 +27,7 @@ I'd love to hear from you. **Feel free to contact me, if you got any feedback or
 
 ![[Pink-quanta.jpg|500]]
 
-## THE ==PINK QUANTA== COLOR SYSTEM
+# THE ==PINK QUANTA== COLOR SYSTEM
 
 Before you read further:
 
@@ -54,39 +54,72 @@ Also the pages consist of many QUANTA (chunks), therefore a clean but also disti
 
 <br>
 
-#### There is still a lot to be done:
+
+## LIST of issues
 
 - [x] Convert my Obsidian-CSS to SCSS for quartz
 	- [x] Heading stylings
 	- [x] Colors
-- [ ] Add a site Icon, which is only displayed on Desktop (left sidebar) but is hidden on mobile
-	- `Component.DesktopOnly(Component.SiteLogo(),` is not working properly, also displayes it on mobile
+- **I exchanged the SiteTitle with a typelogo for now, till I fix both issues**
+	- [x] Change the styling of the siteTitle --> ==PINK==QUANTA
+		- its the same color as my links atm since it is wrapped in `<a>`. 
+	- [ ] Add a SiteLogo, which is only displayed on Desktop (left sidebar) but is hidden on mobile
+		- `Component.DesktopOnly(Component.SiteLogo()),` is not working properly, also displayes it on mobile
+
+
+### Darkmode
+##### Different css variables in Darkmode
+- [ ] Different body-font-weights for dark/light mode, atm its too thin in lightmode 
+
+Havent managed to create variables besides colors that work in `custom.css` yet. I tied to setup a variable `fontweight` in  `/quartz/util/theme.ts` and used different values in Light/Dark theme `quartz.config.` Did not fix anything..
+
+
+##### SiteLogo: Different versions for light/darkmode
+
+
+To versions of a siteLogo, one for light, one for darkmode. Change the siteLogo when `themechange` event occours.
+
+![[KALEIDOS-20240315222641542.png|200]]![[Pink Quanta Theme-20240428210111725.png|200]]
+
+
+> You can also listen to the `themechange` event to perform any custom logic when the theme changes.
+
+Thats written in the [Quartz Documentation](https://quartz.jzhao.xyz/features/darkmode) , yet I dont know how to approach this
+
+```tsx
+document.addEventListener("themechange", (e) => {
+  console.log("Theme changed to " + e.detail.theme) // either "light" or "dark"
+  // your logic here
+})
+
+```
+
+
+##### making Darkmode default
+
 - [ ] Make the darkmode the default option for new users visiting the page
-- [ ] Weird behaviour on desktop (both on my 14" mac and 24" screen, all browsers): when the page is displayed at 100% the "mobile version" is shown, with a Header & Footer and no sidebars. Only if I zoom out to 90%, both sidebars get visible. I want to have this as a default, that desktop always gets a desktop view.
-- [ ] Change the styling of the site title --> ==PINK==QUANTA
-	- its the same color as my links atm since it is wrapped in `<a>`. Dont know how to fix yet
-- [ ] Different body-font-weights for dark/light mode
-	- ATm its either too thin for lightmode or to fat for darkmode.
-	- This one seems quite tricky with quartz - havent managed to create variables besides colors that work within the `custom.css` yet.
-- [ ] Create MOC-Layout w/ short summaries of the pages
-	- I really love how David Buchan solved this one in his [Quantum Garden](https://quantumgardener.info/landscapes/expand-my-way-of-being)
-- [ ] Figure out how to sort/query via metadata
-	- Automated MOCs displaying pages filtered through "SQL"-queries / based on YAML
-	- still need a good method to distinguish articles in English & German
-- [ ] Change how embeds are displayed
-	- the left border seem not to be working - maybe my blockquote styling broke something
 
-Bonus Points:
+ Changed `prefers-color-scheme` to dark. doesnt seams to fix anything
+ 
+```ts
+const userPref = window.matchMedia("(prefers-color-scheme: dark)").matches ? "light" : "dark"
 
-Switch out images depending on light/darkmode.
-I.e. this image does not work in lightmode:
+```
 
-![[KALEIDOS-20240315222641542.png|200]]
-
-
+##### Different callout-colors for Dark/light
 
 > [!NOTE] This callout is also not quite right
 > I have no clue how to fit it, the text within the `<p>` in the callout `.callout[data-callout=note]` has the same color as the tile
+
+
+#### Advanced Things to solve for later 
+- [ ] Weird behaviour on desktop (both on my 14" mac and 24" screen, all browsers): when the page is displayed at 100% the "mobile version" is shown, with a Header & Footer and no sidebars. Only if I zoom out to 90%, both sidebars get visible. I want to have this as a default, that desktop always gets a desktop view.
+- [ ] Create MOC-Layout w/ short summaries of the pages, sort/query via metadata
+	- I really love how David Buchan solved this one in his [Quantum Garden](https://quantumgardener.info/landscapes/expand-my-way-of-being)
+	- still need a good method to distinguish articles in English & German
+- [ ] Change how embeds are displayed
+	- can not add a left border-  maybe my blockquote styling broke something (border right & top/bottom work)
+
 
 # HOW I Structure my notes
 

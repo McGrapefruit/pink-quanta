@@ -11,7 +11,6 @@ export interface ColorScheme {
   linkcolor: string
   linkbackground: string
   highlight: string
-  fontweight: string
 }
 
 interface Colors {
@@ -24,6 +23,8 @@ export interface Theme {
     header: string
     body: string
     code: string
+    fontweight: string
+
   }
   cdnCaching: boolean
   colors: Colors
@@ -61,7 +62,8 @@ ${stylesheet.join("\n\n")}
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
-  --fontweight: "${theme.typography.body}";
+  --fontweight: ${theme.colors.lightMode.fontweight};
+
 }
 
 :root[saved-theme="dark"] {
@@ -77,7 +79,10 @@ ${stylesheet.join("\n\n")}
   --linkcolor: ${theme.colors.darkMode.linkcolor};
   --linkbackground: ${theme.colors.darkMode.linkbackground};
   --highlight: ${theme.colors.darkMode.highlight};
-  --fontweight: "${theme.typography.body}";
+  --fontweight: ${theme.colors.lightMode.fontweight};
+
+
+
 }
 `
 }
