@@ -18,12 +18,12 @@ tags:
 [Obsidian](https://obsidian.md/) became my weapon of choice against the chaos in my life.
 In this SPACE I wanna share my experience using it for every aspect of my life in the past 3 years.
 
-Obsidian is a note-app which can be configured and used in a million different ways, from simplistic note taking to advanced  Information-Maganement-Systems. There are a lot of reasons of [[Why I use Obsidian - and why you may also want too| why I use Obsidian ]] instead of any other software.
-
-
+Obsidian is a note app which can be configured and used in a million different ways, from simplistic note-taking to advanced *Information-Management-Systems*. 
 
 I manage my work (as well as nearly all business documentation of our company), and use it to organize my private life: my interests, hobbies, side hussles, art projects, burocracy. All of it.
 Everything which I am interested in and want to focus is tracked, documented and planned through Obsidian.
+
+There are a lot of reasons of [[Why I use Obsidian - and why you may also want too| why I use Obsidian ]] instead of any other software. Data-sovereignty (offline, human readable data), and the freedom to build nearly anything are only two of the reasons.
 
 Read also:
 - [[My Obsidian System]]
