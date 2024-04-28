@@ -32,7 +32,8 @@ His works have been showcased in renowned institutions like the Victoria & Alber
 
 ![[1983-joseph beuys_thd.jpg|600]]
 
-[[]]1983 - Joseph Beuys © Thomas Degen
+"Joseph Beuys"
+ © 1983 Thomas Degen 
 
 
 ## REFERENCES

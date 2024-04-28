@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "PINK QUANTA",
+    pageTitle: "PINKQUANTA",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quantum.nikolaus-leonard.de",
+    baseUrl: "quanta.nikolaus-leonard.de",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Roboto",
-        body: "Roboto Thin",
+        body: "Roboto thin",
         code: "Anonymous Pro",
       },
       colors: {
@@ -37,8 +37,8 @@ const config: QuartzConfig = {
           primary: "#ef699e",
           secondary: "#2b2b2b",
           tertiary: "#ef699e",
-          linkcolor: "#00999a",
-          linkbackground: "#ebebec",
+          linkcolor: "#288CAB",
+          linkbackground: "#3dd7fb28",
           highlight: "rgba(143, 159, 169, 0.15)",
           fontweight: "400",
         },
@@ -55,7 +55,7 @@ const config: QuartzConfig = {
           linkcolor: "#3dd7fb",
           linkbackground: "#030F25",
           highlight: "rgb(239, 105, 158)",
-          fontweight: "300",
+          fontweight: "200",
         },
       },
     },
