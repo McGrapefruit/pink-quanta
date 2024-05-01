@@ -65,6 +65,11 @@ Also the pages consist of many QUANTA (chunks), therefore a clean but also disti
 		- its the same color as my links atm since it is wrapped in `<a>`. 
 	- [ ] Add a SiteLogo, which is only displayed on Desktop (left sidebar) but is hidden on mobile
 		- `Component.DesktopOnly(Component.SiteLogo()),` is not working properly, also displayes it on mobile
+- [x] Weird behaviour on desktop (both on my 14" mac and 24" screen, all browsers): when the page is displayed at 100% the "mobile version" is shown, with a Header & Footer and no sidebars. Only if I zoom out to 90%, both sidebars get visible. I want to have this as a default, that desktop always gets a desktop view.
+	- @DavidBuchan told me that this is a thing with quartz, as discussed here: https://github.com/jackyzha0/quartz/issues/455#issuecomment-2066063768
+	- Solved it for now by changing $sidePanelWidth to 360px in `variables.scss`
+- [ ] Change how embeds are displayed
+	- can not add a left border-  maybe my blockquote styling broke something (border right & top/bottom work when added in custom.scss)
 
 
 ### Darkmode issues
@@ -115,12 +120,11 @@ const userPref = window.matchMedia("(prefers-color-scheme: dark)").matches ? "li
 
 
 #### Advanced Things to solve for later 
-- [ ] Weird behaviour on desktop (both on my 14" mac and 24" screen, all browsers): when the page is displayed at 100% the "mobile version" is shown, with a Header & Footer and no sidebars. Only if I zoom out to 90%, both sidebars get visible. I want to have this as a default, that desktop always gets a desktop view.
+
 - [ ] Create MOC-Layout w/ short summaries of the pages, sort/query via metadata
 	- I really love how David Buchan solved this one in his [Quantum Garden](https://quantumgardener.info/landscapes/expand-my-way-of-being)
 	- still need a good method to distinguish articles in English & German
-- [ ] Change how embeds are displayed
-	- can not add a left border-  maybe my blockquote styling broke something (border right & top/bottom work)
+
 
 
 # HOW I Structure my notes
