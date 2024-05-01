@@ -14,7 +14,7 @@ related-to: [[Quantum Mechanics]]
 ---
 
 
-> **Apparently, we are living in a quantum world** since everything is constituted by atomic and subatomic particles. Hence **classical physics seems merely to be a useful approximation to a world which is quantum mechanical on all scales.** [^1]
+> Apparently, we are living in a quantum world since everything is constituted by atomic and subatomic particles. Hence **classical physics seems merely to be a useful approximation to a world which is quantum mechanical on all scales.** [^1]
 >  
 
 The basic assumption behind quantum fundamentalism is that the structure of the formalism, in this case the wave function, corresponds to how the world is structured. For instance, according to the wave function description every quantum system may be in a superposition of different states because a combination of state vectors is also a state vector. Now, ==assuming that both the quantum object and the measuring apparatus are quantum systems== that each can be described by a wave function, ==it follows that their entangled state would likewise be represented by a state vector==[^2]

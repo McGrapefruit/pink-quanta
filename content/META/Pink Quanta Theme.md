@@ -16,7 +16,7 @@ tags:
 
 
 This is a Quartz installation, which I am currently styling like my local [Obsidian](https://obsidian.md).
-This Stylesheetsheet is used to explore css-stylings for different markdown features, while also demonstrating ideas for people in search of inspiration on how to customizing their own *secondBrain*.
+This Stylesheet is used to explore css-stylings for different markdown features, while also demonstrating ideas for people in search of inspiration on how to customizing their own *secondBrain*.
 This page also serves as my project-notes for further theme developement.
 
 I am not quite happy with it yet to be honest. The design is still all over the place. I am publishing it tho, in hopes others might have useful input for me as well.
@@ -67,11 +67,14 @@ Also the pages consist of many QUANTA (chunks), therefore a clean but also disti
 		- `Component.DesktopOnly(Component.SiteLogo()),` is not working properly, also displayes it on mobile
 
 
-### Darkmode
-##### Different css variables in Darkmode
-- [ ] Different body-font-weights for dark/light mode, atm its too thin in lightmode 
+### Darkmode issues
+- [ ] Different body-font-weights for light/DarkMode, atm its too thin in lightmode
+- [ ] Different siteLogo for light/DarkMode
+- [ ] Make the darkmode the default option for new users visiting the page
 
-Havent managed to create variables besides colors that work in `custom.css` yet. I tied to setup a variable `fontweight` in  `/quartz/util/theme.ts` and used different values in Light/Dark theme `quartz.config.` Did not fix anything..
+##### Different css variables in Darkmode
+
+Havent managed to create variables besides colors that work in `custom.css` yet. I tried to setup a variable `fontweight` in  `/quartz/util/theme.ts` and used different values in Light/Dark theme `quartz.config.` Did notwork.
 
 
 ##### SiteLogo: Different versions for light/darkmode
@@ -97,7 +100,6 @@ document.addEventListener("themechange", (e) => {
 
 ##### making Darkmode default
 
-- [ ] Make the darkmode the default option for new users visiting the page
 
  Changed `prefers-color-scheme` to dark. doesnt seams to fix anything
  
