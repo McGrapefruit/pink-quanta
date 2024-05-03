@@ -153,9 +153,9 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     if (isCurrent) {
       return "var(--secondary)"
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return "var(--primary)"
-    } else {
       return "var(--lightgray)"
+    } else {
+      return "var(--primary)"
     }
   }
 
