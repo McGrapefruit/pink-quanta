@@ -57,38 +57,66 @@ I use the plugin `Auto note mover`, which moves the files into the correct locat
 The structure of my folders is inspired by the [PARA-](https://mattgiaro.com/para-obsidian/) and the "[PPV](https://www.yearzero.io/notion-life-design)"- Method adjusted to my needs, only just using the bits, which were helpful to me.
 I came up with a different terminology, which feels more intuitive to me.
 
-
-
-
-
-My folderstructure looks like this:
-- 00 META
-	- Templates
-	- Obsidian meta documentation / Code-examples
-- 1 INBOX
-- 2 DO
-	- Open Projects
-- 3 SPACE
-	- Categories / Topics / Areas
-		- Psychology
-		- Philosophy
-- 4 WORK
-	- Employed work
-	- Freelance
-	- Side Hussle
-- 5 LEARN
-	- Topics I am educating myself about
-	- Quantum Mechanics
-- 6 SOURCES
-	- Articles
-	- 
-- 7 Connect
-	- People
-	- Entities
-- 8 TIME
-	- Daily Journals
-	- Weekly notes
-- 9 Archiv
+> [!info]- My folderstructure
+>  The folders associated with my professional work are seperated from the Knowledge-Vault, while my Personal Stuff is also seperately stored from everything else . I could send a colleague a folder containing all the notes from a certain project without having to search for them nor having to fear to accidently reveal something private.
+>  
+>  The subfolders of my Workfolder `4 Work` are encoded in [Johnny.Decimal](https://johnnydecimal.com/)
+>  This Enables me to add a new layer to the structure  and use  "different systems within the system".
+> 
+> 
+> 
+> - **00 META**
+> 	- Templates
+> 	- Obsidian meta documentation / Code-examples
+> - **1 INBOX**
+> - **2 DO**
+> 	- Open Projects
+> - **3 SPACE**
+> 	- aka. "Areas" / Categories / Topics e.g.
+> 		- Art
+> 		- Architecture
+> 		- Photography
+> 		- Kitchen
+> 			- Recepies
+> 		- Personal
+> 			- Tax
+> 			- Bureaucracy 
+> 			- Carrer
+> 				- CVs
+> 				- Letter of References
+> 		- Design
+> 		- ...
+> - **4 WORK** 
+> 	- Employed work 
+> 		- 41 Daily Work Logs
+> 		- 42 Project MOCs
+> 		- 43 DOCs
+> 		- 44 Entities (work)
+> 		- 48 Meeting Protocols
+> 	- Freelance
+> 	- Side Hussle
+> - **5 LEARN**
+> 	- Topics I am educating myself about e.g.
+> 		- Quantum Mechanics
+> 		- Coding
+> 		- Philosophy
+> - **6 SOURCES**
+> 	- 60 Omnivore
+> 	- 61 Books
+> 	- 62 Paper
+> 	- 63 Articles
+> 	- 64 Podcasts
+> 	- 65 Talks
+> 	- 66 Movies
+> 	- 67 Magazines
+> - **7 Connect**
+> 	- People
+> 	- Entities
+> - **8 TIME**
+> 	- Daily Journals
+> 	- Weekly notes
+> - **9 Archiv**
+> 	- Archived Projects
 
 
 
