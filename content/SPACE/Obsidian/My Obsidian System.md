@@ -54,8 +54,45 @@ The vault itself is structured via tags **and** folders, since I wanna future pr
 I use the plugin `Auto note mover`, which moves the files into the correct locations, depending on the tag. That way I get the best of both worlds.
 
 
-The structure of my folders is inspired by the [PARA-](https://mattgiaro.com/para-obsidian/) and the "[PPV](https://www.yearzero.io/notion-life-design)"- Method (I mixed them to my linking and needs, just using the bits, which were helpful to me.
+The structure of my folders is inspired by the [PARA-](https://mattgiaro.com/para-obsidian/) and the "[PPV](https://www.yearzero.io/notion-life-design)"- Method adjusted to my needs, only just using the bits, which were helpful to me.
 I came up with a different terminology, which feels more intuitive to me.
+
+
+
+
+
+My folderstructure looks like this:
+- 00 META
+	- Templates
+	- Obsidian meta documentation / Code-examples
+- 1 INBOX
+- 2 DO
+	- Open Projects
+- 3 SPACE
+	- Categories / Topics / Areas
+		- Psychology
+		- Philosophy
+- 4 WORK
+	- Employed work
+	- Freelance
+	- Side Hussle
+- 5 LEARN
+	- Topics I am educating myself about
+	- Quantum Mechanics
+- 6 SOURCES
+	- Articles
+	- 
+- 7 Connect
+	- People
+	- Entities
+- 8 TIME
+	- Daily Journals
+	- Weekly notes
+- 9 Archiv
+
+
+
+---
 
 
 ![[My Obsidian Terminology]]

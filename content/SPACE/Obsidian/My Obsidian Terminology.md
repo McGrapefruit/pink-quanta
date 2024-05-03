@@ -5,17 +5,24 @@ tags:
 related-to: 
   - "[[My Obsidian System]]"
 ---
+### Terminologies are schemata that make life easier
 
 
-Some people are calling their new notes "seedlings", while elaborated ones are called "Evergreen".
-I wanted something which suits my passion, so I named and built my system on the analogy of physical particles.
+In the PKM-community many people use terminologies and frameworks to add meaningful information about a note. 
 
-Everything starts with a **QUANTUM**, which is a fluctuating thought I wrote down. Either they get liked to other notes, grow and persist, or they die - like a seedling.
-My inbox is structured similar to the [Hot-cool Inbox](https://notes.linkingyourthinking.com/Atlas/Inbox) from the LYT-framework. That way I keep track of older Quanta and can decide how to proceed with these notes.
+Often times analogies of plants with their evolving states are being used to describe the degree of elaboration/ completion. Some people are calling their new notes "seedlings", while elaborated ones are called "Forest" or "Evergreen".
+
+I like nature, but I am really not a plant person. The only plant which I managed not to kill is my beloved monstera.
+
+So, I wanted something which suits my passion, so I named and built my system on the analogy of physical particles.
+
+### Types of notes / content
+
+Everything starts with a **QUANTUM**, which is a fluctuating thought I wrote down. Either they get linked to other notes, grow and persist, or they die - like a seedling that is not watered - or like the synaptic connection between two neurons that is not being used.
+My inbox is structured similarly to the [Hot-cool Inbox](https://notes.linkingyourthinking.com/Atlas/Inbox) from the LYT-framework. That way I keep track of older Quanta and can decide how to proceed with these notes.
 
 Since the obsidian community calls their small Notes "Atomic notes" and the Index notes MOCs (Map of Content) I wanted to stick with this methodology, so that people can relate to it more easily.
 
-### Types of notes / content
 
 So, a small note is called an **ATOM**, many ATOMS linked together form a **MOC** (Molecule) and many molecules together form **SPACE**.
 
