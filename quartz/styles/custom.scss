@@ -425,6 +425,16 @@ input[type=checkbox]:checked {
 }
 
 
+.page article li:has(>input[type=checkbox]:checked) {
+text-decoration: none;
+-webkit-text-decoration-color: var(--gray);
+text-decoration-color: var(--gray);
+color: var(--gray);
+opacity: 70%;
+}
+
+
+
 .contains-task-list {
     margin-inline-start: 15px;
     margin-inline-end: 0px;

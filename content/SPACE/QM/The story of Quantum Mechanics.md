@@ -1,8 +1,8 @@
 ---
 aliases: 
-date: "[[2024-04-21]]"
+date: "2024-04-21"
 date_created: 2024-04-21  17:20:39
-date_modified: 2024-04-21  17:53:12
+date_modified: 2024-05-07  19:13:59
 draft: 
 language: 
 space: 
@@ -14,11 +14,7 @@ related-to:
 tags:
   - QuantumMechanics
 ---
-
-
-
 ## The story of Quantum Mechanics
-
 
 Quantum mechanics (QM) stands as one of the most successful theories of the 20th and 21st centuries, profoundly influencing our perspective on the world and revolutionizing our understanding of reality.
 Moreover, it is responsible for driving our rapid technological advancement.
