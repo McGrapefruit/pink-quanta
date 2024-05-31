@@ -1,6 +1,6 @@
 ---
 date_created: 2024-04-10  20:59:51
-date_modified: 2024-05-31  19:27:44
+date_modified: 2024-05-31  20:45:22
 draft: false
 language: English
 title: Why I use Obsidian
@@ -11,20 +11,19 @@ tags:
   - Obsidian
   - PKM
 ---
+### [[Obsidian]] Is my weapon of choice against the chaos in my life.
 
-Here is why I use Obsidian and why you may also want to.
-### [[Obsidian]] became my weapon of choice against the chaos in my life.
-
+**Here is why I use Obsidian and why you may also want to.**
 
 For many years, I worked on different methods to structure Information for different usecases within different systems/softwares and collaborative situations. By myself or within a team.
 
 I used to take a lot of notes: Evernote, MS Word docs, MS Onenote, iCloud Notes, handwritten moleskines and notepads – you name it.
 At least 10 pieces of paper were flying all over my desk at all times, containing different information, small notes & scribbles.
 
-I found myself having multiple notebooks for different purposes - a process that was effective but also incredibly time-consuming and often frustrating. It worked, but it always drove me nuts, since i knew where the information was to be found, but was not always available to me right away. Combining different notes together was a physical act of rewriting stuff into another more general Notebook (compairable to a MOC)
+I found myself having multiple notebooks for different purposes - a process that was effective but also incredibly time-consuming and often frustrating. It worked, but it always drove me nuts, since i knew where the information was to be found, but was not always available to me right away. Combining different notes together was a physical act of rewriting stuff into another more general Notebook (compairable to a MOC[^1])
 
 In 2018 I switched to a single [BulletJournal](https://bulletjournal.com/blogs/faq) (analog moleskine book), which I used on a daily basis to structure work and private tasks, goals, events, Idea collections & so on.  
-I created tons and tons of notes within different media between different devices.
+I still created tons and tons of notes within different media between different devices.
 
 #### Project-Management software I used before Obsidian
 
@@ -39,7 +38,7 @@ As a IT-Project Manager I (was forced to) use:
     - Nextcloud
     - GoogleDocs
 
-I tried out nearly all PKM software on the market, till I found obsidian in 2021 and I never looked back.
+I tried out nearly all PM software on the market, till I found obsidian in 2021 and I never looked back.
 It gives thoughts and creativity a space to evolve, while at the same time documenting the status quo as well as the results of your work.
 
 ## Why Obsidian is superior to other note-apps/software
@@ -103,9 +102,4 @@ There is no friction writing thoughts down in my obsidian.
 If you add metadata (YAML) to your notes, they become searchable like a database using `DataView` and a SQL-like query languange.
 The underlying system I built helps me to find and therefore retain the notes at all times and resurfaces them I unexpected yet suitable areas and encurage creative connections.
 
-
-
-
-
-
-
+[^1]: MOC = Map of content, an indexpage linking to other notes. Read more about Obsidian [[My Obsidian System#My Obsidian Terminology| Terminology]]
