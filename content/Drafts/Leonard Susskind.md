@@ -1,7 +1,7 @@
 ---
 date_created: 2024-05-04  00:53:20
 date_modified: 2024-05-04  00:53:43
-draft: false
+draft: true
 language: 
 title: Leonard Susskind
 type: 

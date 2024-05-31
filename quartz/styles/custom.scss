@@ -183,7 +183,7 @@ blockquote {
     transition: border-color 0.2s ease;
 
     line-height: 1.4em !important;
-    font-size: 0.9em;
+    font-size: 0.95em;
     font-weight: var(--blockquote-font-width) !important;
     letter-spacing: 0.81px;
 
@@ -218,7 +218,7 @@ blockquote.transclude {
 
 .page-title {
 color: var(--primary) !important;
-font-family: 'Silka Black', 'Helvetica Neue', -apple-system;
+font-family: 'Roboto';
 
 font-weight: 300 !important;
 font-size: 1.5em !important;
@@ -244,7 +244,7 @@ text-align: left;
     margin: 2rem 0 0;
     color: var(--secondary);
     font-weight: 600;
-    font-family: 'Silka Black', 'Helvetica Neue', -apple-system;
+    font-family: 'Roboto';
 
 
 }
@@ -252,7 +252,7 @@ text-align: left;
 .page article>h1 {
     font-size: 1.6rem;
     font-weight: 600;
-    font-family: 'Silka Black', 'Helvetica Neue', -apple-system;
+    font-family: 'Roboto';
 
     color: var(--secondary);
     
@@ -269,9 +269,10 @@ text-align: left;
 
 h1 {
   color: var(--dark);
-  font-family: 'Silka Black', 'Helvetica Neue', -apple-system;
+  font-family: 'Roboto';
 
-  font-weight: 400;
+
+  font-weight: 600;
 
 
   letter-spacing: 0.8px;
@@ -286,7 +287,8 @@ h2 {
   color: var(--dark);
   font-weight: 500 !important;
   font-size: 1.5em !important;;
-  font-family: 'Silka Black','Helvetica Neue', 'Roboto', -apple-system;
+  font-family: 'Roboto';
+
   letter-spacing: 0.8px;
   margin-top: 3rem;
   text-transform: uppercase;
@@ -297,11 +299,11 @@ h2 {
 
 h3 {
 
-  font-family: 'Silka','Helvetica Neue';
+  font-family: 'Roboto';
 
   color: var(--primary);
   font-weight: 500 !important;
-  font-size: 1.125em !important;;
+  font-size: 1.2em !important;;
   letter-spacing: 0.5px;
   line-height: 1.6em;
 
@@ -309,6 +311,10 @@ h3 {
  
   padding-bottom: 10px;
   margin-bottom: 20px;
+
+  text-decoration: var(--primary) underline; 
+    text-underline-offset: 0.5em;
+    text-decoration-thickness: 0.1px;
 
 }
 
@@ -349,34 +355,35 @@ h4 {
 color: var(--primary);
 
 font-size: 1em ;
-font-family: 'Silka','Helvetica Neue';
+font-family: 'Roboto';
 
-font-weight: 400 !important;
+font-weight: 300 !important;
 letter-spacing: 1.1px;
 font-style: italic;
 font-variant: normal;
 
 padding-top: 15px;
 
+
 }
 
 h5 {
+  font-family: 'Roboto Mono';
 
-  color:  var(--secondary);
-  font-weight: 500 !important;
-  font-size: 0.7em !important;
+  color:  var(--dark);
+  font-weight: 400 !important;
+  font-size: 0.8em !important;
   letter-spacing: 0.5px;
   font-style: normal;
   font-variant: normal;
   text-transform: uppercase;
-  font-family: 'Silka Mono','Helvetica Neue';
 }
 
 
 h6 {
+  font-family: 'Roboto Mono';
   color:  var(--yellow);
   font-weight: 400 !important;
-  font-family: 'Silka Mono','Helvetica Neue';
   font-size: 0.7em !important;
   
 
@@ -392,12 +399,11 @@ h6 {
 
 
 code {
-    
+    font-family: 'Roboto Mono';
     color: var(--dark);
-    background-color: var(--lightgrey);
     font-weight: 400;
     border-radius: 5px;
-    border-bottom: 2px solid var(--primary);
+
 
 }
 

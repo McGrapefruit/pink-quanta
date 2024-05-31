@@ -25,18 +25,20 @@ I'd love to hear from you. **Feel free to contact me, if you got any feedback or
 
 
 
+
+
 ![[Pink-quanta.jpg|500]]
 
-# THE ==PINK QUANTA== COLOR SYSTEM
+## THE ==PINK QUANTA== COLOR SYSTEM
 
-Before you read further:
 
 **This theme is designed to be used primarily in darkmode, to fully emerse with the content.** (Use the "sunny" icon near the search function)
 
+
 The styling of my System/theme follows one simple rule: [[Pink Quanta Theme|Blue is used for Links and references (WHERE & WHAT)]], ==PINK is the indicator(HOW/WHY).==
 
-How do we know something is important? Through contrast.
-Our brain is programmed to focus on stimuli which stand out.
+**How do we know something is important?** Through **contrast**.
+Our brain is programmed to focus on stimuli that stand out.
 
 > Block-Quotes  
 > Its important to me, that external sources / quotes are well recognized as such. Therefore the sorta-APA-styling.
@@ -54,6 +56,7 @@ Also the pages consist of many QUANTA (chunks), therefore a clean but also disti
 
 <br>
 
+---
 
 ## LIST of issues
 
@@ -119,7 +122,7 @@ const userPref = window.matchMedia("(prefers-color-scheme: dark)").matches ? "li
 > I have no clue how to fit it, the text within the `<p>` in the callout `.callout[data-callout=note]` has the same color as the tile
 
 
-#### Advanced Things to solve for later 
+### Advanced Things to solve for later 
 
 - [ ] Create MOC-Layout w/ short summaries of the pages, sort/query via metadata
 	- I really love how David Buchan solved this one in his [Quantum Garden](https://quantumgardener.info/landscapes/expand-my-way-of-being)

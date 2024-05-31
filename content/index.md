@@ -31,7 +31,6 @@ The color-design follows one simple rule:
 [[index|Blue is for reference WHERE &WHAT]], ==PINK is the indicator (HOW/WHY).==
 
 
-
 ## Topics I am interested in +
 
 
@@ -47,9 +46,13 @@ We are a holistic team of planners with the ambitious vision of building the mos
 
 I am a [[Obsidian]] fanboy, there is no denying it.
 
-My whole circle of friends had to endure me going into raptures about obsidian way to often, I can not torture them any longer.
+In my opinion the obsidian online-community paints a picture of an overly complicated software, which is aimed at hardcore academics, PKM-Nerds, computer scientists or for Pen&Paper-Gaming/World-building. But thats not true at all.
 
-Here is [[Why I use Obsidian - and why you may also want too]] and [[My Obsidian System| how my Obsidian Knowledge- and Projektmanagement-System]] is designed, which I tailored to my needs &  purposes. 
+Obsidian is great for students/university/Education, (Project) Managers, Assistants, Side-Husslers, Hobbies, (Journal-)Writers etc. – anything that has to do with organisation or writing.
+
+Read about [[Why I use Obsidian]]
+
+If you are already using obsidian and have everything figured out and are searching for inspiration, you may be interested in [[My Obsidian System|how my Obsidian Knowledge- and Projektmanagement-System is designed]], which I tailored to my unconventional needs & different purposes. 
 
 
 ### Photography

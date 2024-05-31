@@ -22,20 +22,27 @@ tags:
 I manage and document all my projects in Obsidian – professional and private.
 
 
-I use a combination of [Todoist](https://todoist.com/help/articles/introduction-to-filters-V98wIH?locale=en&articleId=introduction-to-filters-V98wIH) and [Obsidian Task Plugin](https://github.com/obsidian-tasks-group/obsidian-tasks).
-Actually I only use todoist to be able to add tasks on my iPhone quickly, as well as when I wanna get a reminder to my phone instead of my computer.  
+I use a combination of [Todoist](https://todoist.com/help/articles/introduction-to-filters-V98wIH?locale=en&articleId=introduction-to-filters-V98wIH) and [Obsidian Task Plugin](https://github.com/obsidian-tasks-group/obsidian-tasks).[^3]
 
-Everything else is handled in Obsidian, especially work related Tasks.
 Despite many people disliking the Obsidian task-plugin, I build a fully functional project-management-system that suits my needs perfectly.
-(I might even prefer the obsidian tasks, as they are always linked to the content which the task is refering to).
+(I might even prefer the obsidian tasks to any other solution, as they are always linked to the content which the task is refering to).
 
-TASKS are added always directly on corresponding notes (duuh[^2]), which are related to the task i.e. their `Project-MOC`,[^1] a `Meeting note` or `daily journal`, or just a `Task note`.
+My TASKS are added always directly on corresponding notes (duuh[^2]), which are related to i.e. their `Project`, a `Meeting note` or `daily journal`, or just a `Task note`.
 
 
 
-Every Area and Project has its own Dashboard with custom queries, showing only relevant tasks and related info.
-A `Main Dashboard` gives an overview about all Deadlines within all areas (Work, sidehussle, private, personal). A clean layout provides an oversight over tasks of the week and a box focussing today.
-My Main Dashboard informs me about upcoming projects with a high workload, which requires timeblocking with the team. It reminds me of contacts who I should follow up with once in a while.
+Every Area or Project has its own "Dashboard" ( a `Project-MOC`,[^1] ) with custom queries, showing only relevant tasks and related info.
+
+
+A `Daily Dashboard` gives an overview about all Deadlines within all areas (Work, sidehussle, private, personal). A clean layout provides an oversight over tasks of the week and a box focussing today.
+
+![[How I manage Projects and TASKS in Obsidian-20240530172701741.png|600]]
+
+
+
+
+
+My Daily Dashboard informs me about upcoming projects with a high workload, which requires timeblocking with the team. It reminds me of contacts who I should follow up with once in a while.
 
 
 The [task-plugin-documentation](https://publish.obsidian.md/tasks/Queries/About+Queries) is very extensive and straight forward, so I wont be explaining how to setup a query on this page. Since my own queries are tailored to my very specific system, I wont paste them here either, since they wont help a lot. If you got questions tho, hit me up, I am happy to help.
@@ -84,4 +91,5 @@ I use Hashtag nesting to categorize the tasks further:
 | `#to/enjoy` | Stuff I want to do more often. If I happen to have free time on my hands, I query those "todos"  |
 
 [^2]: I just say this, since there is this weird practise of throwing all Todos on one single note and only manage them through querying their metadata. First of all: Its messy. Secondly, that way the tasks itself have to contain more metadata explaining the context they are relevant to, which is neither elegant nor efficient. This method also actively ignores Obsidians main power: Interlinking notes. Poor choice of design imo.
-[^1]: read about the [[My Obsidian System#My Obsidian Terminology| Terminology]] first, if you dont know what a "MOC" is
+[^1]: MOC = Map of content, an indexpage linking to other notes. Read more about my [[My Obsidian System#My Obsidian Terminology| Terminology]]
+[^3]: Actually I only use todoist to be able to add tasks on my iPhone quickly and receive reminders on my phone instead of on computer.  Everything else is handled in Obsidian, especially work related Tasks.

@@ -1,7 +1,7 @@
 ---
 date_created: 2024-05-04  00:39:39
 date_modified: 2024-05-04  00:39:45
-draft: false
+draft: true
 language: 
 title: Quantum MOC
 type: 
