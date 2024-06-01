@@ -11,6 +11,9 @@
 
 
 
+
+
+
 // Folders overview
 
 
@@ -317,6 +320,18 @@ h3 {
     text-decoration-thickness: 0.1px;
 
 }
+
+
+// Color of the notetitles in search
+.search>#search-container>#search-space>#search-layout>#results-container .result-card>h3 {
+    margin: 0;
+    text-decoration: none;
+    color: var(--linkcolor);
+    
+}
+
+
+
 
 .graph>h3 {
     margin: 0;
