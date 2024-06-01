@@ -36,27 +36,15 @@ I convinced that we can achieve amazing things though  sharing our knowledge and
 Currently work at [DataHall](https://datahall.de) as Head of Communication.
 We are a holistic team of planners with the ambitious vision of building the most innovative datacenter in Europe. We are still in stealth mode, a new website and marketing is coming soon! 
 
-### Obsidian & Digital Knowledge- and Projektmanagement
-
-I am a [[Obsidian]] fanboy, there is no denying it.
-Obsidian is a software which helps you to store and connect notes and thoughts in a super simple way.
-In my opinion the obsidian online-community paints a picture of an overly complicated software, which is aimed at hardcore academics, PKM-Nerds, computer scientists or for Pen&Paper-Gaming/World-building. But thats not true at all.
-
-Obsidian is great for students/university/Education, (Project) Managers, Assistants, Side-Husslers, Hobbies, (Journal-)Writers etc. – anything that has to do with organisation or writing.
-
-Read about [[Why I use Obsidian]]
-
-If you are already using obsidian and have everything figured out and are searching for inspiration, you may be interested in [[My Obsidian System|how my Obsidian Knowledge- and Projektmanagement-System is designed]], which I tailored to my unconventional needs & different purposes. 
-
 
 ### Photography
 
 My later Mentor [[Thomas Degen (THD)|Thomas Degen]], who was a known fashion photographer, sparked my love for *painting with light*.
-He only made his money with fashion, but in his heart he was a true artist. Sadly only a small fraction of his works was ever on display. Especially his late works have never seen the light outside of his studio-basement.
+He only made his money with fashion, but in his heart he was a true artist. Sadly only a small fraction of his works has ever been on display. Especially his late works have never seen the light outside of his studio-basement.
 
-He experienced many interesting adventures in the 70ies-80ies, most stories telling of a world which is not existent anymore – Experiences which are no longer possible today. Talking to him was like an history lesson. In fact I learned everything I know about history from him.
+Thomas experienced extraordinary adventures in the 70ies-80ies, most of his stories took place in a world which doesn't exist anymore – Experiences which are no longer possible today. Talking to him was like a history lesson. In fact I learned everything I know about history from him.
 
-Some of the stories I share on this site are honour of Thomas, for which he is sadly no longer able to tell them himself.
+Some of the stories I share on this site are in honour of Thomas, as he is sadly no longer able to tell them himself.
 We even startet building an Art Agency together, called [[KALEIDOS]] which is not active at the moment due to his death. I inherited his whole archive containing 10s of thousands of Dias, negatives and prints, which I will gradually curate, digitize and exhibit.
 
 
@@ -90,6 +78,24 @@ I have the pleasure of being friend with some Quantum-scientists like Marcus Rei
 Everytime we share a beer together I feel like my worldview is getting more and more completed and destroyed at the same time.
 
 In this SPACE I wanna share facts and have conversations about QM in simple understandable bits for anyone who has also not studied physics or mathematics (like myself).
+
+
+
+
+
+
+### Obsidian & Digital Knowledge- and Projektmanagement
+
+I am a [[Obsidian]] fanboy, there is no denying it.
+Obsidian is a software which helps you to store and connect notes and thoughts in a super simple way.
+In my opinion the obsidian online-community paints a picture of an overly complicated software, which is aimed at hardcore academics, PKM-Nerds, computer scientists or for Pen&Paper-Gaming/World-building. But thats not true at all.
+
+Obsidian is great for students/university/Education, (Project) Managers, Assistants, Side-Husslers, Hobbies, (Journal-)Writers etc. – anything that has to do with organisation or writing.
+
+Read about [[Why I use Obsidian]]
+
+If you are already using obsidian and have everything figured out and are searching for inspiration, you may be interested in [[My Obsidian System|how my Obsidian Knowledge- and Projektmanagement-System is designed]], which I tailored to my unconventional needs & different purposes.
+
 
 
 
