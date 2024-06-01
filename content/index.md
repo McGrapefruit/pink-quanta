@@ -34,7 +34,7 @@ Communication consumes me.
 I convinced that we can achieve amazing things though  sharing our knowledge and that [[Communication and QM|Communication creates a sur-plus]].
 
 Currently work at [DataHall](https://datahall.de) as Head of Communication.
-We are a holistic team of planners with the ambitious vision of building the most innovative datacenter in Europe. We are still in stealth mode, a new website and marketing is coming soon! 
+We are a [[Holacracy|holocratic]] team of planners with the ambitious vision of building the most innovative datacenter in Europe. We are still in stealth mode, a new website and marketing is coming soon! 
 
 
 ### Photography
