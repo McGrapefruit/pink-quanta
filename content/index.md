@@ -13,27 +13,22 @@ tags:
 
 Hi there!
 
-The purpose of this site is to connect with likeminded people to talk about ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art – with the concept still evolving[^1]. Synthpy is only possible through interaction.
+The purpose of this site is to connect with likeminded people to talk about ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art – with the concept still evolving[^1]. Inspiration and synthpy is only achievable through interaction.
 
 [^1]: Building a lot of wordpress websites for clients in the past, its a unusual feeling for me to publish a site still under maintainence. But thats the idea of an evolving *digital garden*
+
+
 
 I am not the sole author of this content. Its a zettelkasten of collective knowledge, curated by me - Nikolaus Leonard.
 
 Pleasure to meet you!
 
+**This site follows one simple rule:** <br>
+[[index|Blue is for reference (WHO, WHERE or WHAT)]], ==PINK is the indicator (HOW/WHY).==
 ![[NIKO2046(2).jpg|600]]
 
 
-**Before your read further:** **Consider using this site in darkmode, to fully emerse with the content.** (The sunny icon near the search function)
-
-The color-design follows one simple rule:
-
-[[index|Blue is for reference WHERE &WHAT]], ==PINK is the indicator (HOW/WHY).==
-
-
 ## Topics I am interested in +
-
-
 
 ### Communication
 Communication consumes me.
