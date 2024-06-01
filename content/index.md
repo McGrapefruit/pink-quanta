@@ -13,13 +13,12 @@ tags:
 
 Hi there!
 
-The purpose of this site is to connect with likeminded people to talk about ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art – with the concept still evolving[^1]. Inspiration and synthpy is only achievable through interaction.
-
-[^1]: Building a lot of wordpress websites for clients in the past, its a unusual feeling for me to publish a site still under maintainence. But thats the idea of an evolving *digital garden*
+The purpose of this site is to connect with likeminded people and to discuss ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art – the concept is still evolving[^1]. Inspiration and syntopy is only achievable through interaction.
 
 
 
-I am not the sole author of this content. Its a zettelkasten of collective knowledge, curated by me - Nikolaus Leonard.
+
+I am not the sole author of this content. It's a zettelkasten of collective knowledge, curated by me - Nikolaus Leonard.
 
 Pleasure to meet you!
 
@@ -91,3 +90,7 @@ I have the pleasure of being friend with some Quantum-scientists like Marcus Rei
 Everytime we share a beer together I feel like my worldview is getting more and more completed and destroyed at the same time.
 
 In this SPACE I wanna share facts and have conversations about QM in simple understandable bits for anyone who has also not studied physics or mathematics (like myself).
+
+
+
+[^1]: Having built a lot of wordpress websites for clients, it's an unusual feeling for me to publish a site in a permanently "unfinished" state. But thats the idea of an evolving *digital garden*
