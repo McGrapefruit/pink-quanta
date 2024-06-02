@@ -7,8 +7,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      
-
+     // Mastodon: {link: "https://aus.social/@purposeofpomelo", icon: "fa-brands fa-mastodon", iconcolor: "rgb(140, 141, 255)"},
+      // Instagram: {link: "https://www.instagram.com/magiconionman/", icon: "fa-brands fa-instagram", iconcolor: "white"},
+    
     },
   }),
 }
