@@ -23,7 +23,7 @@ I am not the sole author of this content. It's a zettelkasten of collective know
 Pleasure to meet you!
 
 **This site follows one simple rule:**
-[[index|Blue is for reference (WHO, WHERE or WHAT)]], ==PINK is the indicator (HOW/WHY).==
+[[index|Blue is for reference (WHO, WHAT or WHERE)]], ==PINK is the indicator (HOW/WHY).==
 
 ![[NIKO2046(2).jpg|600]]
 
