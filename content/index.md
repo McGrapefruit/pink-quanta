@@ -22,16 +22,16 @@ I am not the sole author of this content. It's a zettelkasten of collective know
 
 Pleasure to meet you!
 
-**This site follows one simple rule:** <br>
+**This site follows one simple rule:**
 [[index|Blue is for reference (WHO, WHERE or WHAT)]], ==PINK is the indicator (HOW/WHY).==
+
 ![[NIKO2046(2).jpg|600]]
 
 
 ## Topics I am interested in +
 
 ### Communication
-Communication consumes me.
-I convinced that we can achieve amazing things though  sharing our knowledge and that [[Communication and QM|Communication creates a sur-plus]].
+Communication consumes me. I convinced that we can achieve amazing things though  sharing our knowledge and that [[Communication and QM|Communication creates a sur-plus]].
 
 Currently work at [DataHall](https://datahall.de) as Head of Communication.
 We are a [[Holacracy|holocratic]] team of planners with the ambitious vision of building the most innovative datacenter in Europe. We are still in stealth mode, a new website and marketing is coming soon! 
@@ -46,7 +46,6 @@ Thomas experienced extraordinary adventures in the 70ies-80ies, most of his stor
 
 Some of the stories I share on this site are in honour of Thomas, as he is sadly no longer able to tell them himself.
 We even startet building an Art Agency together, called [[KALEIDOS]] which is not active at the moment due to his death. I inherited his whole archive containing 10s of thousands of dias, negatives and prints, which I will gradually curate, digitize and exhibit.
-
 
 ### Psychology
 I studied Psychology for 7 years. With my whole family working mostly in medical and my mom being a therapist I basically grew up with the topic, but I only realized my love for psychology, when I went back to school at the age of 18. I loved it all my life, without knowing. All my interests had a psychological aspect to it. Communication, body language, empathy, negotiation...
@@ -74,8 +73,7 @@ I have always been a holistic system thinker, interested in how "systems"  work.
 
 [[Quantum fundamentalism|Everything is made from Quants]] therefore every science-form potentially shows quantum behaviour of some sort (to some extent). You can even find quantum theories in (Micro-)Biology, System Theory, Psychology, and even Buddhism, if you are very creative.
 
-I have the pleasure of being friend with some Quantum-scientists like Marcus Reid @[Quantum Power Munich](https://quantumpowermunich.de/).
-Everytime we share a beer together I feel like my worldview is getting more and more completed and destroyed at the same time.
+I have the pleasure of being friend with some Quantum-scientists like Marcus Reid @[Quantum Power Munich](https://quantumpowermunich.de/). Everytime we share a beer together I feel like my worldview is getting more and more completed and destroyed at the same time.
 
 In this SPACE I wanna share facts and have conversations about QM in simple understandable bits for anyone who has also not studied physics or mathematics (like myself).
 
@@ -87,8 +85,7 @@ In this SPACE I wanna share facts and have conversations about QM in simple unde
 ### Obsidian & Digital Knowledge- and Projektmanagement
 
 I am a [[Obsidian]] fanboy, there is no denying it.
-Obsidian is a software which helps you to store and connect notes and thoughts in a super simple way.
-In my opinion the obsidian online-community paints a picture of an overly complicated software, which is aimed at hardcore academics, PKM-Nerds, computer scientists or for Pen&Paper-Gaming/World-building. But thats not true at all.
+Obsidian is a software which helps you to store and connect notes and thoughts in a super simple way. In my opinion the obsidian online-community paints a picture of an overly complicated software, which is aimed at hardcore academics, PKM-Nerds, computer scientists or for Pen&Paper-Gaming/World-building. But thats not true at all.
 
 Obsidian is great for students/university/Education, (Project) Managers, Assistants, Side-Husslers, Hobbies, (Journal-)Writers etc. – anything that has to do with organisation or writing.
 
