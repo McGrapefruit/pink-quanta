@@ -7,10 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "Find me on Mastedon": "https://aus.social/@purposeofpomelo",
-      instagram: "https://www.instagram.com/magiconionman/",
       
-      
+
     },
   }),
 }
@@ -20,7 +18,6 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
     Component.TagList(),
   ],
   left: [
