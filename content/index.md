@@ -31,7 +31,7 @@ Pleasure to meet you!
 ## Topics I am interested in +
 
 ### Communication
-Communication consumes me. I convinced that we can achieve amazing things though  sharing our knowledge and that [[Communication and QM|Communication creates a sur-plus]].
+Communication consumes me. I'm convinced that [[Communication and QM|communication creates a sur-plus]] and that we can achieve amazing things through sharing our knowledge.
 
 Currently work at [DataHall](https://datahall.de) as Head of Communication.
 We are a [[Holacracy|holocratic]] team of planners with the ambitious vision of building the most innovative datacenter in Europe. We are still in stealth mode, a new website and marketing is coming soon! 
@@ -66,7 +66,8 @@ I did not persuite the career of a therapist as it was my wish when started my s
 
 
 ### Quantum Mechanics (QM)
-I wrote my thesis in Psychology about [[Quantum Mechanics]] (Title "Versuchsleiter-Erwartungseffekte auf Basis der Quantenmechanik - Explorative Micro-PK-Studie zu (un)willentlicher Beeinflussung eines Quantensystems") – Sounds more advanced than it is. 
+
+I wrote my thesis[^2] in Psychology about [[Quantum Mechanics]] – sounds more advanced than it is. 
 
 Since then I am a great Enthusiast of QM.
 I have always been a holistic system thinker, interested in how "systems"  work.
@@ -97,3 +98,4 @@ If you are already using obsidian and have everything figured out and are search
 
 
 [^1]: Having built a lot of wordpress websites for clients, it's an unusual feeling for me to publish a site in a permanently "unfinished" state. But thats the idea of an evolving *digital garden*
+[^2]: "Experimenter Expectancy Effects Based on Quantum Mechanics - Explorative Micro-PK Study on (Un)Intentional Influence of a Quantum System" (Original title "Versuchsleiter-Erwartungseffekte auf Basis der Quantenmechanik - Explorative Micro-PK-Studie zu (un)willentlicher Beeinflussung eines Quantensystems")

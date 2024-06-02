@@ -29,11 +29,8 @@ export const defaultContentPageLayout: PageLayout = {
 
     Component.Search(),
     
-
-
-
-
-    
+  
+  
   ],
   right: [
     
