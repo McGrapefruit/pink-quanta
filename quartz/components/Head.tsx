@@ -44,6 +44,11 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
+
+
+
+
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="c9412ff0-5081-4be3-8b15-20879a5d44cd"></script>
       </head>
     )
   }
