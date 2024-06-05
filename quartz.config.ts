@@ -13,9 +13,9 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: 'umami', 
-      host: 'cloud.umami.is', 
-      websiteId: '44211951-6d26-4a06-b462-ee49ab492f9d'
-    },
+      host: 'cloud.umami.is/script.js', 
+      websiteId: '44211951-6d26-4a06-b462-ee49ab492f9d' 
+      },
     locale: "en-US",
     baseUrl: "quanta.nikolaus-leonard.de",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -25,8 +25,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Roboto",
-        body: "Roboto thin",
-        code: "Anonymous Pro",
+        body: "Roboto%20thin",
+        code: "Anonymous%20Pro",
       },
       colors: {
         lightMode: {
