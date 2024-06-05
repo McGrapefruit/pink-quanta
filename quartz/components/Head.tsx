@@ -1,4 +1,4 @@
-      <script defer src="https://cloud.umami.is/script.js" data-website-id="44211951-6d26-4a06-b462-ee49ab492f9d"></script>import { i18n } from "../i18n"
+import { i18n } from "../i18n"
 import { FullSlug, joinSegments, pathToRoot } from "../util/path"
 import { JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref } from "../util/theme"
