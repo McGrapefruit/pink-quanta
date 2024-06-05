@@ -12,6 +12,9 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
+      provider: 'umami', 
+      host: 'https://cloud.umami.is', 
+      websiteId: '44211951-6d26-4a06-b462-ee49ab492f9d' }
     },
     locale: "en-US",
     baseUrl: "quanta.nikolaus-leonard.de",
