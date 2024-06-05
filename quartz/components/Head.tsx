@@ -1,4 +1,4 @@
-import { i18n } from "../i18n"
+      <script defer src="https://cloud.umami.is/script.js" data-website-id="44211951-6d26-4a06-b462-ee49ab492f9d"></script>import { i18n } from "../i18n"
 import { FullSlug, joinSegments, pathToRoot } from "../util/path"
 import { JSResourceToScriptElement } from "../util/resources"
 import { googleFontHref } from "../util/theme"
@@ -43,12 +43,10 @@ export default (() => {
         ))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
-          .map((res) => JSResourceToScriptElement(res, true))}
+          .map((res) => JSResourceToScriptElement(res, true))
+        }
 
-
-
-
-        <script defer src="https://cloud.umami.is/script.js" data-website-id="c9412ff0-5081-4be3-8b15-20879a5d44cd"></script>
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="44211951-6d26-4a06-b462-ee49ab492f9d"></script>
       </head>
     )
   }
