@@ -385,10 +385,10 @@ padding-top: 15px;
 h5 {
   font-family: 'Roboto Mono';
 
-  color:  var(--dark);
+  color:  var(--primary);
   font-weight: 400 !important;
-  font-size: 0.8em !important;
-  letter-spacing: 0.5px;
+  font-size: 0.75em !important;
+  letter-spacing: 1.5px;
   font-style: normal;
   font-variant: normal;
   text-transform: uppercase;
@@ -400,9 +400,8 @@ h6 {
   color:  var(--yellow);
   font-weight: 400 !important;
   font-size: 0.7em !important;
+  letter-spacing: 1.5px;
   
-
-
   font-style: normal;
   font-variant: normal;
   text-transform: uppercase;
