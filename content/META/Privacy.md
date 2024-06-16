@@ -8,9 +8,15 @@ type:
 related-to: 
 tags:
 ---
-##### No Trackers or Cookies
+##### No Cookies
 
-nikolaus-leonard.de is completely cookie and tracker free. We do not use any tracking technologies to monitor or record your activity on our site.
+nikolaus-leonard.de is completely cookie free. 
+
+
+##### analytics
+
+We use umami for basic analytics.
+Umami does not collect any personally identifiable information and anonymizes all data collected. Users cannot be identified and are never tracked across websites.
 
 ##### No Personal Data Collection
 
