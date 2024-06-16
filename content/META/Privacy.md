@@ -15,7 +15,7 @@ nikolaus-leonard.de is completely cookie free.
 
 ##### analytics
 
-We use umami for basic analytics.
+We use [umami](https://umami.is/docs/faq) for basic analytics.
 Umami does not collect any personally identifiable information and anonymizes all data collected. Users cannot be identified and are never tracked across websites.
 
 ##### No Personal Data Collection
