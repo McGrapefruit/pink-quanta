@@ -16,7 +16,7 @@ tags:
 
 
 [Obsidian](https://obsidian.md/) became my weapon of choice against the chaos in my life.
-In this blog I wanna share my experience using Obsidian for every aspect of my life in the past 3 years.
+In this blog I want to share my experience using Obsidian for every aspect of my life in the past 3 years.
 
 ### What is Obsidian
 
@@ -26,7 +26,7 @@ Obsidian is a note app which can be configured and used in a million different w
 
 
 There are a lot of reasons of [[Why I use Obsidian|why I use Obsidian]] instead of any other software. 
-**Data-sovereignty** (offline data, no vendor lock-in, human readable markdown files which can be imported into every other tool), as well as the **freedom to build any workflow** you come up with, are only a view of the reasons.
+**Data-sovereignty** (offline data, no vendor lock-in, human readable markdown files which can be imported into every other tool), as well as the **freedom to build any workflow** you come up with, are only a vew of the reasons.
 
 
 ==Obsidian is for everybody who writes notes about "stuff" ==(literally anything) ==and wants to keep and easily find those notes again in the future== (future-proof).
