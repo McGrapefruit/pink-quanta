@@ -98,7 +98,7 @@ I spent a lot of time fiddeling with my obsidian vault, trying out different wor
 **There is a lot I have learned about efficient, future-proof and sustainable structures.**
 
 
-It easily took me 500+ hours to be where I am at, but ==if I had to start from scratch today, I would be operable in less than a day.==
+It easily took me 300+ hours to be where I am at, but ==if I had to start from scratch today, I would be operable in less than a day.==
 It took some time to combine my experience from the many PMS I used in the past, but it was worth the effort. At least for my usecase.
 
 **That I "wasted" so much time configuring my obsidian does not mean that it is complicated, nor does it have to be**. It just that I had something very specific in mind and my needs are somewhat unconventional.
