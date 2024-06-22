@@ -22,32 +22,29 @@ In this blog I want to share my experience using Obsidian for every aspect of my
 
 Obsidian is a note app which can be configured and used in a million different ways, from simplistic note-taking to advanced *Information-Management-Systems*. 
 
-
-
-
 There are a lot of reasons of [[Why I use Obsidian|why I use Obsidian]] instead of any other software. 
-**Data-sovereignty** (offline data, no vendor lock-in, human readable markdown files which can be imported into every other tool), as well as the **freedom to build any workflow** you come up with, are only a vew of the reasons.
+**Data-sovereignty** (offline data, no vendor lock-in, human readable markdown files which can be imported into every other tool), as well as the **freedom to build any workflow** you come up with, are only a few of the reasons.
 
 
 ==Obsidian is for everybody who writes notes about "stuff" ==(literally anything) ==and wants to keep and easily find those notes again in the future== (future-proof).
 
 
-Its is great for students/university/Education, (Project) Managers, Assistants, Side-Husslers, Hobbies, (Journal-)Writers etc. – anything that has to do with organisation or writing. If you are already using tools like Evernote, Apple-notes, onenote or similar, you will LOVE Obsidian.
+It's great for students/university/education, (project-) managers, assistants, side-husslers, hobbies, (journal-)writers etc. – anything that has to do with organisation or writing. If you are already using tools like Evernote, Apple-notes, onenote or similar, you will LOVE Obsidian.
 
-Many new users complain about being overwelmed by the sheere possibilities of customization through different plugins and setups. **In my opinion the obsidian online-community paints a picture of an overly complicated software**. But thats not true at all.
+Many new users complain about being overwhelmed by the sheer possibilities of customization through different plugins and setups. **In my opinion the obsidian online-community paints a picture of an overly complicated software**. But thats not true at all.
 
 When opening the app for the first time, the app is bare-naked and has only the most necessary functions: 
 
-- Its a simple and *fast* text editor
+- It's a simple and *fast* text editor
 - Notes created in the app are stored in a local folder on your computer. 
-- You can create sub-folders to further structure your notes, while also being able to add Hashtags to individual notes. 
+- You can create sub-folders to further structure your notes, while also being able to add hashtags to individual notes. 
 - You also have the option to link related notes together, just like an article in Wikipedia has hyperlinks to related articles within the text.
 
-Thats it. 
-Simple UserInterface, no junk. Unused Features can be hidden. Needed Features can be installed through plugins written by the massive community.
+That's it. 
+Simple UserInterface, no junk. Unused features can be hidden. Needed features can be installed through plugins written by the massive community.
 
 
-Its the massive library of plugins and their interactions, with sheer endless possibilities that can seem like rocketscience. People on the internet explaining how to use obsidian often fail to mention, that their just showing how THEY use obsidian. **There is no right way to use Obsidian**. It has to work for YOU. 
+It's the massive library of plugins and their interactions, with sheer endless possibilities that can seem like rocket-science. People on the internet explaining how to use obsidian often fail to mention, that they're just showing how THEY use obsidian. **There is no right way to use Obsidian**. It has to work for YOU. 
 Don't bother trying to mimic a complex system from somebody else on the internet, as you will be violating [[Gall's Law]]. **Keep obsidian as it is: Simple.** And if the need arises, your system will grow organically over time.
 
 ### What I use Obsidian for
