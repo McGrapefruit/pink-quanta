@@ -26,7 +26,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Roboto",
         body: "Roboto thin",
-        code: "Anonymous Pro",
+        code: "Roboto Mono",
       },
       colors: {
         lightMode: {
