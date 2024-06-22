@@ -79,7 +79,7 @@ If you already use obsidian and are searching for inspiration, you might enjoy r
 **If you are new to obsidian, don't start with reading about intimidating & complex workflows. Start by only using the basic functions and go from there.**
 
 
-## Preamble: A word of adwise on How to approach obsidian
+## Preamble: A word of advise on How to approach obsidian
 
 > [!warning] Warning: The Dangers of Obsidian
 > Obsidian can be highly addictive, functions as a vast rabbithole and can be a massivly effective procrastination tool, since everything you build to be more organized feels so productive. I know what I am talking about :-)
