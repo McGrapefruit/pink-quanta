@@ -50,8 +50,8 @@ strong {
 body, section {
 
 
-    font-weight: 100;
-    font-family: Roboto;
+    font-weight: var(--bodyfontweight);
+    font-family: var(--bodyFont) !important;
 
     background-color: var(--light);
     color: var(--darkgray);
