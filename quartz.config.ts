@@ -32,7 +32,7 @@ const config: QuartzConfig = {
             },
           darkMode: {
             header: "Roboto",
-            body: "Roboto thin",
+            body: "-apple-system",
             code: "Roboto Mono",
             bodyfontweight: 100,
 
