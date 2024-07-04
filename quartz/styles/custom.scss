@@ -39,7 +39,9 @@ em {
 }
 
 strong {
-    font-weight: 800;
+    font-weight: 900 !important;
+    font-family: var(--headerFont);
+
     letter-spacing: 0.5px;
 }
 
@@ -71,9 +73,11 @@ body, section {
 // general stuff
 
 .text-highlight {
-    background-color: var(--primary);
+    font-family: var(--headerFont);
 
-    font-weight: 400;
+    background-color: var(--primary);
+    font-weight: var(--bodyfontweight);
+
     color: var(--light);
     border-radius: 0px;
     padding: 0 0.2rem;

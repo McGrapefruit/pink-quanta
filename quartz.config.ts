@@ -24,13 +24,13 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-          darkMode: {
+          lightMode: {
               header: "Roboto",
               body: "Roboto",
               code: "Roboto Mono",
               bodyfontweight: "400",
             },
-          lightMode: {
+          darkMode: {
             header: "Roboto",
             body: "Roboto thin",
             code: "Roboto Mono",
@@ -40,20 +40,6 @@ const config: QuartzConfig = {
       },
       colors: {
           lightMode: {
-              light: "#030F25",
-              lightgray: "#193044",
-              gray: "#646464",
-              darkgray: "#d4d4d4",
-              dark: "#ebebec",
-              yellow: "#FFD000",
-              primary: "#ef699e",
-              secondary: "#3dd7fb",
-              tertiary: "#ef699e",
-              linkcolor: "#3dd7fb",
-              linkbackground: "#030F25",
-              highlight: "rgb(239, 105, 158)",            
-          },
-        darkMode: {
             light: "#faf8f8",
             lightgray: "#e5e5e5",
             gray: "#b8b8b8",
@@ -65,7 +51,21 @@ const config: QuartzConfig = {
             tertiary: "#ef699e",
             linkcolor: "#288CAB",
             linkbackground: "#3dd7fb28",
-            highlight: "rgba(143, 159, 169, 0.15)",
+            highlight: "rgba(143, 159, 169, 0.15)",          
+          },
+        darkMode: {
+            light: "#030F25",
+              lightgray: "#193044",
+              gray: "#646464",
+              darkgray: "#d4d4d4",
+              dark: "#ebebec",
+              yellow: "#FFD000",
+              primary: "#ef699e",
+              secondary: "#3dd7fb",
+              tertiary: "#ef699e",
+              linkcolor: "#3dd7fb",
+              linkbackground: "#030F25",
+              highlight: "rgb(239, 105, 158)",
         },
       },
     },
