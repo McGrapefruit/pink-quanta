@@ -7,25 +7,24 @@ type:
 related-to: 
 tags: 
 ---
-
-
-
-
 Hi there!
 
-The purpose of this site is to connect with likeminded people and to discuss ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art – the concept is still evolving[^1]. Inspiration and syntopy is only achievable through interaction.
-
-
-
+The purpose of this site is to connect with likeminded people and to discuss ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art – the concept is still evolving[^1]. 
 
 I am not the sole author of this content. It's a zettelkasten of collective knowledge, curated by me - Nikolaus Leonard.
 
-Pleasure to meet you!
+Pleasure to meet you![^2]
 
-**This site follows one simple rule:**
-[[index|Blue is for reference (WHO, WHAT or WHERE)]], ==PINK is the indicator (HOW/WHY).==
+**Before your read further:** **Consider using this site in darkmode, to fully emerse with the content.** (Use the sun/moon icon near the search function)
 
-![[NIKO2046(2).jpg|600]]
+The color-design follows one simple rule:
+[[index|Blue is for reference WHERE &WHAT]], ==PINK is the indicator (HOW/WHY).==
+
+![[Nikolaus_leonard.jpg|600]]
+
+
+
+---
 
 
 ## Topics I am interested in +
@@ -57,9 +56,8 @@ I did not persuite the career of a therapist as it was my wish when started my s
 **Special topics that spark my interest**
 - Interpersonal differences between our perception of "reality" (and the philosophical question of what reality is)
 - How we humans are biased in our perception about everything 
-- How we handle Emotions
-- How we approach Goals
-- How to get out of the hole
+- How we handle emotions
+- How we approach goals
 
 
 
@@ -67,7 +65,7 @@ I did not persuite the career of a therapist as it was my wish when started my s
 
 ### Quantum Mechanics (QM)
 
-I wrote my thesis[^2] in Psychology about [[Quantum Mechanics]] – sounds more advanced than it is. 
+I wrote my thesis in Psychology about [[Quantum Mechanics]] – sounds more advanced than it is. 
 
 Since then I am a great Enthusiast of QM.
 I have always been a holistic system thinker, interested in how "systems"  work.
@@ -98,4 +96,4 @@ If you are already using obsidian and have everything figured out and are search
 
 
 [^1]: Having built a lot of wordpress websites for clients, it's an unusual feeling for me to publish a site in a permanently "unfinished" state. But thats the idea of an evolving *digital garden*
-[^2]: "Experimenter Expectancy Effects Based on Quantum Mechanics - Explorative Micro-PK Study on (Un)Intentional Influence of a Quantum System" (Original title "Versuchsleiter-Erwartungseffekte auf Basis der Quantenmechanik - Explorative Micro-PK-Studie zu (un)willentlicher Beeinflussung eines Quantensystems")
+[^2]: Feel free to say hi or start a conversation over mastodon / email. Always happy to get to know new folks and learn about their passion. 

@@ -48,19 +48,24 @@ strong {
 
 body, section {
 
-    box-sizing: border-box;
+
+    font-weight: var(--bodyfontweight);
+    font-family: var(--bodyFont);
+
     background-color: var(--light);
-    font-weight: 200;
     color: var(--darkgray);
     max-width: 100%;
     margin: 0;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.3px;
+    box-sizing: border-box;
 
 }
 
 
+
+
 ::marker {
-    color: var(--linkcolor);
+    color: var(--primary);
 
 }
 
@@ -70,7 +75,7 @@ body, section {
     background-color: var(--primary);
     font-family: Roboto;
     font-weight: 400;
-    color: #000;
+    color: var(--light);
     border-radius: 0px;
     padding: 0 0.2rem;
 }

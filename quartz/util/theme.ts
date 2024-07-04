@@ -23,6 +23,8 @@ export interface Theme {
     header: string
     body: string
     code: string
+    bodyfontweight: string
+
   }
   cdnCaching: boolean
   colors: Colors
@@ -33,7 +35,7 @@ export type ThemeKey = keyof Colors
 
 const DEFAULT_SANS_SERIF =
   'Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif'
-const DEFAULT_MONO = "ROboto Mono, ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
+const DEFAULT_MONO = "Roboto Mono, ui-monospace, SFMono-Regular, SF Mono, Menlo, monospace"
 
 export function googleFontHref(theme: Theme) {
   const { code, header, body } = theme.typography
@@ -57,10 +59,10 @@ ${stylesheet.join("\n\n")}
   --linkcolor: ${theme.colors.lightMode.linkcolor};
   --linkbackground: ${theme.colors.lightMode.linkbackground};
   --highlight: ${theme.colors.lightMode.highlight};
-  --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
-  --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
-  --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
-
+  --headerFont: "${theme.typography.lightMode.header}", ${DEFAULT_SANS_SERIF};
+  --bodyFont: "${theme.typography.lightMode.body}", ${DEFAULT_SANS_SERIF};
+  --codeFont: "${theme.typography.lightMode.code}", ${DEFAULT_MONO};
+  --bodyfontweight: "${theme.typography.lightMode.bodyfontweight}"; 
 
 }
 
@@ -77,7 +79,8 @@ ${stylesheet.join("\n\n")}
   --linkcolor: ${theme.colors.darkMode.linkcolor};
   --linkbackground: ${theme.colors.darkMode.linkbackground};
   --highlight: ${theme.colors.darkMode.highlight};
-
+  --bodyFont: "${theme.typography.darkMode.body}", ${DEFAULT_SANS_SERIF};
+  --bodyfontweight: "${theme.typography.darkMode.bodyfontweight}"; 
 
 }
 `

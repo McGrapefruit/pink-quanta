@@ -108,7 +108,7 @@ It took some time to combine my experience from the many PMS I used in the past,
 
 I read a lot about people struggling with the variety of the offered options and different solutions on how to structure a vault. But I think thats the beauty of it, that there are so many individual ways to build a system that fits their needs and their thinking/work process. You just need to focus on what YOU need and thats what it'll be.
 
-> [!Tip] My Tipp 
+> [!Tip] My tip
 > My tipp for people who wanna start using Obsidian is to only get inspired by others to a certain point, but to always stick to your own thing and to **never adopt something, just because it works for somebody else** or looks professional. 
 > 
 > Build the system AROUND your workflow, dont try to come up with a system which you would need to adapt to. The system should work for you - not the other way around. Let it grow and evolve organically. 
