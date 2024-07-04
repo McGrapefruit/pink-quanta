@@ -32,7 +32,7 @@ const config: QuartzConfig = {
             },
           darkMode: {
             header: "Roboto",
-            body: "Roboto thin",
+            body: "Roboto Thin",
             code: "Roboto Mono",
             bodyfontweight: 100,
 
