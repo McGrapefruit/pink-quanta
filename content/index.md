@@ -15,12 +15,13 @@ I am not the sole author of this content. It's a zettelkasten of collective know
 
 Pleasure to meet you![^2]
 
-**Before your read further:** **Consider using this site in darkmode, to fully emerse with the content.** (Use the sun/moon icon near the search function)
-
-The color-design follows one simple rule:
+![[Nikolaus_leonard.jpg|600]]
+**This site follows one simple rule:**
 [[index|Blue is for reference WHERE &WHAT]], ==PINK is the indicator (HOW/WHY).==
 
-![[Nikolaus_leonard.jpg|600]]
+Before your read further: Consider using this site in darkmode, to fully emerse with the content. (Use the sun/moon icon near the search function)
+
+
 
 
 

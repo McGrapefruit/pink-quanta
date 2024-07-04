@@ -41,7 +41,6 @@ em {
 strong {
     font-weight: 800;
     letter-spacing: 0.5px;
-    font-family: Roboto;
 }
 
 
@@ -73,7 +72,7 @@ body, section {
 
 .text-highlight {
     background-color: var(--primary);
-    font-family: Roboto;
+
     font-weight: 400;
     color: var(--light);
     border-radius: 0px;
@@ -148,7 +147,6 @@ button#explorer.collapsed .fold {
 a {
     color: var(--linkcolor);
     font-weight: 400;
-    font-family: Roboto;
     text-decoration: none;
     transition: color .2s;
 
@@ -226,7 +224,6 @@ blockquote.transclude {
 
 .page-title {
 color: var(--primary) !important;
-font-family: 'Roboto';
 
 font-weight: 300 !important;
 font-size: 1.5em !important;
@@ -252,7 +249,7 @@ text-align: left;
     margin: 2rem 0 0;
     color: var(--secondary);
     font-weight: 600;
-    font-family: 'Roboto';
+
 
 
 }
@@ -260,8 +257,6 @@ text-align: left;
 .page article>h1 {
     font-size: 1.6rem;
     font-weight: 600;
-    font-family: 'Roboto';
-
     color: var(--secondary);
     
     margin-bottom: 2rem;
@@ -277,12 +272,7 @@ text-align: left;
 
 h1 {
   color: var(--dark);
-  font-family: 'Roboto';
-
-
   font-weight: 600;
-
-
   letter-spacing: 0.8px;
 
 }
@@ -295,7 +285,6 @@ h2 {
   color: var(--dark);
   font-weight: 500 !important;
   font-size: 1.5em !important;;
-  font-family: 'Roboto';
 
   letter-spacing: 0.8px;
   margin-top: 3rem;
@@ -306,9 +295,6 @@ h2 {
 
 
 h3 {
-
-  font-family: 'Roboto';
-
   color: var(--primary);
   font-weight: 500 !important;
   font-size: 1.2em !important;;
@@ -375,8 +361,6 @@ h4 {
 color: var(--primary);
 
 font-size: 1em ;
-font-family: 'Roboto';
-
 font-weight: 300 !important;
 letter-spacing: 1.1px;
 font-style: italic;
@@ -388,7 +372,7 @@ padding-top: 15px;
 }
 
 h5 {
-  font-family: 'Roboto Mono';
+  font-family: var(--codeFont);
 
   color:  var(--primary);
   font-weight: 400 !important;
@@ -401,7 +385,8 @@ h5 {
 
 
 h6 {
-  font-family: 'Roboto Mono';
+  font-family: var(--codeFont);
+    
   color:  var(--yellow);
   font-weight: 400 !important;
   font-size: 0.7em !important;
