@@ -5,10 +5,10 @@ date_modified: 2024-05-30  19:59:54
 draft: 
 language: 
 space: 
-title: "Gall's Law"
+title: Gall's Law
 type: 
 related-to:
-  - "[[Obsidian]]"
+  - "[[obsidian]]"
 tags: 
 ---
 ## Definition

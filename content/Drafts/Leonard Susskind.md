@@ -30,7 +30,7 @@ Its like turning the coordinate system upside down, the value flips its sign.
 [In this part of his lecture](https://youtu.be/iJfw6lDlTuA?t=2218) Leonard Susskind explains this phenomenon beautifully. 
 
 
-The above article contains a summary of his lecture, linked to related concepts.
+The below article contains a summary of his lecture, linked to related concepts.
 
 
 ![[Leonard Susskind-20240504012822727.png]]

@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
      // Mastodon: {link: "https://aus.social/@purposeofpomelo", icon: "fa-brands fa-mastodon", iconcolor: "rgb(140, 141, 255)"},
-     // Instagram: {link: "https://www.instagram.com/magiconionman/", icon: "fa-brands fa-instagram", iconcolor: "white"},
+      // Instagram: {link: "https://www.instagram.com/magiconionman/", icon: "fa-brands fa-instagram", iconcolor: "white"},
     
     },
   }),
@@ -19,7 +19,6 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta( ),
     Component.TagList(),
   ],
   left: [
@@ -33,7 +32,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     
     Component.Darkmode(),
-   
   
   
   ],
@@ -41,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
     
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
-    
+
   ],
 }
 
@@ -49,16 +47,13 @@ export const defaultContentPageLayout: PageLayout = {
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
+
     Component.SiteLogo(),
+
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    Component.Darkmode()
+    
+
   ],
-  right: [
-
-    Component.DesktopOnly(Component.TableOfContents()),
-
-
-
-    ],
+  right: [],
 }

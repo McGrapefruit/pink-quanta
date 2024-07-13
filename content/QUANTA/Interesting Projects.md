@@ -1,7 +1,7 @@
 ---
 date_created: 2024-04-11  00:53:36
 date_modified: 2024-04-21  19:10:52
-draft: 
+draft: true
 language: 
 title: Interesting Projects
 type: 

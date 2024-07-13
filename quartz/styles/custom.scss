@@ -11,6 +11,48 @@
 
 
 
+// Tags Styling vs space (no #)
+
+ div.popover-hint h2 a.internal.tag-link:before, p.content-meta a.internal.tag-link:before {
+
+    content: "";
+}
+
+
+// Tags Styling vs space (no #)
+
+div.popover-hint h2 a.internal.tag-link, p.content-meta a.internal.tag-link {
+    background-color: var(--primary) !important;
+    color: var(--light);
+    border-radius: 5px;
+    margin: 0 0.1rem;
+    padding: 0.2rem 0.4rem;
+    border: none;
+}
+
+
+
+ul.tags {
+    
+    display: none;
+}
+
+
+
+// SPACE MOCS: No underlined links
+
+
+div.desc h3, div.desc a  {
+    
+    underline: none !important;
+    text-decoration: none !important;
+}
+
+
+
+
+
+
 
 
 
@@ -33,7 +75,7 @@ li.section-li>.section>.meta {
 em {
     font-style: italic;
     color: var(--dark) !important;
-    letter-spacing: 1.5px;
+    letter-spacing: 1px;
     font-weight: 400 !important;
     font-size: 1em;
 }
@@ -91,7 +133,6 @@ body, section {
     border: 0px var(--linkcolor) solid;
     padding-left: 10px;
     padding-top: 10px;
-    
 
 }
 
@@ -99,11 +140,16 @@ body, section {
 button#explorer h1 {
     margin: 0;
     font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+
     display: inline-block;
-    padding-bottom: 25px;
+    padding-bottom: 5px;
     text-decoration: var(--primary) underline; 
     text-underline-offset: 0.5em;
     text-decoration-thickness: 0.1px;
+    
+     
 }
 
 
@@ -113,6 +159,7 @@ button#explorer .fold {
     transition: transform .3s;
     padding-bottom: 25px;
     color: var(--primary);
+    display:none;
 
 }
 
@@ -127,9 +174,7 @@ button#explorer.collapsed .fold {
 .breadcrumb-container {
     flex-flow: wrap;
     gap: 0.5rem;
-    
     padding: 0;
-    display: none;
 }
 
 .search>#search-icon {
@@ -171,17 +216,27 @@ a.internal {
     
 }
 
+// MEta daten
+
+.content-meta {
+    color: var(--gray);
+    margin-top: 0;
+
+}
+
+
 
 
 // Hashtags
 
 
 a.internal.tag-link {
-    background-color: var(--linkcolor) !important;
-    color: var(--light);
-    border-radius: 8px;
+    background-color: var(--light) !important;
+    color: var(--linkcolor);
+    border-radius: 20px;
     margin: 0 0.1rem;
     padding: 0.2rem 0.4rem;
+    border: 1px var(--linkcolor) solid;
 }
 
 
@@ -192,10 +247,12 @@ blockquote {
     padding-left: 1rem;
     transition: border-color 0.2s ease;
 
-    line-height: 1.4em !important;
+    line-height: 1.4em;
     font-size: 0.95em;
-    font-weight: var(--blockquote-font-width) !important;
+
+    font-weight: var(--blockquote-font-width);
     letter-spacing: 0.81px;
+    font-style: italic;
 
     color:  var(--text-normal) !important; 
 
@@ -229,19 +286,15 @@ blockquote.transclude {
 .page-title {
 color: var(--primary) !important;
 
-font-weight: 300 !important;
-font-size: 1.5em !important;
+font-weight: 300;
+font-size: 1.5em ;
 text-align: left;
+display:none;
 
 }
 
-// MEta daten
 
-.content-meta {
-    color: var(--gray);
-    margin-top: 0;
 
-}
 
 .footnotes {
     border-top: 1px solid var(--linkcolor);
@@ -250,7 +303,7 @@ text-align: left;
 
 
 .article-title {
-    margin: 2rem 0 0;
+    margin: 2rem 0 5;
     color: var(--secondary);
     font-weight: 600;
 
@@ -287,10 +340,10 @@ h1 {
 
 h2 {
   color: var(--dark);
-  font-weight: 500 !important;
-  font-size: 1.5em !important;;
+  font-weight: 500 ;
+  font-size: 1.5em ;;
 
-  letter-spacing: 0.8px;
+  letter-spacing: 0.5px;
   margin-top: 3rem;
   text-transform: uppercase;
 
@@ -300,8 +353,8 @@ h2 {
 
 h3 {
   color: var(--primary);
-  font-weight: 500 !important;
-  font-size: 1.2em !important;;
+  font-weight: 500;
+  font-size: 1.2em;
   letter-spacing: 0.5px;
   line-height: 1.6em;
 
@@ -328,6 +381,7 @@ h3 {
 
 
 
+
 .graph>h3 {
     margin: 0;
     font-size: 1rem;
@@ -344,6 +398,7 @@ h3 {
 
     text-underline-offset: 0.5em;
     text-decoration-thickness: 0.1px;
+
 }
 
 button#toc h3 {
@@ -362,16 +417,18 @@ button#toc h3 {
 
 h4 {
 
-color: var(--primary);
+color: var(--dark);
 
 font-size: 1em ;
-font-weight: 300 !important;
+font-weight: 300 ;
 letter-spacing: 1.1px;
 font-style: italic;
 font-variant: normal;
 
 padding-top: 15px;
-
+text-decoration: var(--primary) underline; 
+    text-underline-offset: 0.5em;
+    text-decoration-thickness: 0.1px;
 
 }
 
@@ -391,7 +448,7 @@ h5 {
 h6 {
   font-family: var(--codeFont);
     
-  color:  var(--yellow);
+  color:  var(--dark);
   font-weight: 400 !important;
   font-size: 0.7em !important;
   letter-spacing: 1.5px;
