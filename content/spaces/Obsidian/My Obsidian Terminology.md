@@ -1,9 +1,9 @@
 ---
 tags:
-  - Obsidian 
+  - Obsidian
   - Pink-Quanta
 spaces:
-  - "[[obsidian]]"
+  - "[[obsidian.md]]"
 related-to:
   - "[[My Obsidian System]]"
 ---

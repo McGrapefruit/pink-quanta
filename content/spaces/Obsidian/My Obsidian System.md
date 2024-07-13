@@ -1,6 +1,6 @@
 ---
 spaces:
-  - "[[obsidian]]"
+  - "[[obsidian.md]]"
 date_created: 2024-04-12  09:36:58
 date_modified: 2024-04-12  09:37:07
 draft: 
@@ -17,7 +17,7 @@ tags:
 > It easily took me 500+ hours to be where I am at, but ==if I had to start from scratch today, I would be operable in less than a day.==
 > We are a society sharing collective knowledge. If you seek assistance with your organisational structure, hit me up - I'm happy to help.
 >
-## My [[obsidian]] Workflow
+## My [[obsidian.md]] Workflow
 
 My system combines my experiences from different companies and their data structures as well as inspirations from different systems/frameworks.
 

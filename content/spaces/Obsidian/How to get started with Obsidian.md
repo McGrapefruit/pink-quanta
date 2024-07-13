@@ -1,8 +1,8 @@
 ---
-aliases:
+aliases: 
 tags: Obsidian
-spaces: 
-  - "[[obsidian]]"
+spaces:
+  - "[[obsidian.md]]"
 ---
 
 
