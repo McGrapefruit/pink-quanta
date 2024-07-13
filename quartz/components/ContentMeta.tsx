@@ -20,7 +20,7 @@ const defaultOptions: ContentMetaOptions = {
   showReadingTime: true,
   showComma: true,
   showDate: false,
-  showtags: true,
+  showtags: false,
 }
 
 function tagHTML(tag: string, title: string) {
