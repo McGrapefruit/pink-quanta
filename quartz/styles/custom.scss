@@ -19,19 +19,16 @@
 }
 
 
-// Tags Styling vs space (no #)
+// Tags Styling within contentmeta
 
 div.popover-hint h2 a.internal.tag-link, p.content-meta a.internal.tag-link {
     background-color: var(--primary) !important;
     color: var(--light);
     border-radius: 5px;
     margin: 0 0.1rem;
-    padding: 0.2rem 0.4rem;
+    padding: 0.1rem 0.3rem 0.1rem 0.1rem;
     border: none;
 }
-
-
-
 
 
 
@@ -43,10 +40,6 @@ div.desc h3, div.desc a  {
     underline: none !important;
     text-decoration: none !important;
 }
-
-
-
-
 
 
 

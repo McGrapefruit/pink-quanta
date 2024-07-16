@@ -45,7 +45,7 @@ export default (() => {
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))
         }
-
+        <script src="https://kit.fontawesome.com/5428a1cc8b.js" crossOrigin="anonymous"></script>
         <script defer src="https://cloud.umami.is/script.js" data-website-id="44211951-6d26-4a06-b462-ee49ab492f9d"></script>
       </head>
     )

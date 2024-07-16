@@ -10,6 +10,7 @@ type:
 related-to: 
 tags:
   - Communication
+  - QM
 space:
   - "[[quantum-mechanics]]"
 ---

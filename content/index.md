@@ -18,7 +18,7 @@ Pleasure to meet you![^2]
 **This site follows one simple rule:**
 [[index|Blue is for reference WHERE &WHAT]], ==PINK is the indicator (HOW/WHY).==
 
-**Before your read further:** Consider using this site in darkmode, to fully emerse with the content. (Use the sun/moon icon near the search function)
+**Before your read further:** **Consider using this site in darkmode**, to fully emerse with the content. (Use the sun/moon icon near the search function)
 
 
 
