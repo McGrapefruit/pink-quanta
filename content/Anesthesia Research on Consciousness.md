@@ -8,12 +8,12 @@ type:
 related-to: 
 tags:
   - psychology
-  - Consciousness
+  - consciousness
 description: Research has shown that the state of unconsciousness induced by controlled intoxication with anesthetics is triggered by a reduction in the vibration frequency of microtubules, which normally occurs in the terahertz range. These findings imply that quantum vibrations within microtubules may play a crucial role in the development of human consciousness.
 ---
 ### Consciousness correlates to quantum vibrations within microtubules
 
-> [!NOTE]- APA
+> [!info]- APA
 > Craddock, T. J., Hameroff, S. R., Ayoub, A. T., Klobukowski, M., & Tuszynski, J. A. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. _Current topics in medicinal chemistry_, _15_(6), 523–533. https://doi.org/10.2174/1568026615666150225104543
 > 
 >
