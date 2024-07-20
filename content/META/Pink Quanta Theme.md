@@ -108,21 +108,20 @@ Hit me up if you know how to fix this problem :)
 
 
 # LIST of issues
-
+##### TODO
 - [x] Convert my Obsidian-CSS to SCSS for quartz
 	- [x] Heading stylings
 	- [x] Colors
-- **I exchanged the SiteTitle with a typelogo for now, till I fix both issues**
-	- [x] Change the styling of the siteTitle --> ==PINK==QUANTA
-		- its the same color as my links atm since it is wrapped in `<a>`. 
-	- [ ] Add a SiteLogo, which is only displayed on Desktop (left sidebar) but is hidden on mobile
-		- `Component.DesktopOnly(Component.SiteLogo()),` is not working properly, also displayes it on mobile
-- [x] Weird behaviour on desktop (both on my 14" mac and 24" screen, all browsers): when the page is displayed at 100% the "mobile version" is shown, with a Header & Footer and no sidebars. Only if I zoom out to 90%, both sidebars get visible. I want to have this as a default, that desktop always gets a desktop view.
-	- @DavidBuchan told me that this is a thing with quartz, as discussed here: https://github.com/jackyzha0/quartz/issues/455#issuecomment-2066063768
-	- Solved it for now by changing $sidePanelWidth to 360px in `variables.scss`
 - [ ] Change how embeds are displayed
 	- can not add a left border-  maybe my blockquote styling broke something (border right & top/bottom work when added in custom.scss)
-
+- [ ] Add a SiteLogo, which is only displayed on Desktop (left sidebar) but is hidden on mobile
+	- `Component.DesktopOnly(Component.SiteLogo()),` is not working properly, also displayes it on mobile
+- [ ] hide inexisting links
+- [ ] MOC pages
+- [ ] configure RSS
+- [ ] Exclude tag from this.tag.pagelist
+- [ ] Custom fonts besides google.fonts (i wanna have this baby beautiful and fully open source)
+	- [ ] Learn how to build a hook
 
 ### Darkmode issues
 - [ ] Different body-font-weights for light/DarkMode, atm its too thin in lightmode
@@ -139,7 +138,7 @@ Havent managed to create variables besides colors that work in `custom.css` yet.
 
 To versions of a siteLogo, one for light, one for darkmode. Change the siteLogo when `themechange` event occours.
 
-![[KALEIDOS-20240315222641542.png|200]]![[Pink Quanta Theme-20240428210111725.png|200]]
+![[KALEIDOS-20240315222641542.png|200]]![[Kaleidos Logo SW.png|200]]
 
 
 > You can also listen to the `themechange` event to perform any custom logic when the theme changes.
@@ -206,25 +205,10 @@ Same with the unordered bullet lists
 
 ![[Pink Quanta demo stylesheet-20240411151638601.png|300]]
 
-#### Code
-
-My code is custom highlighted. I dont use it that much tho - sublime text is my best friend.
-
-I am not a coder, just an interested learner.
-When I was in university I made my money though building websites.
-Therefore I have an rudimentory idea of HTML & CSS.
-
-(I once tried to understand QuantumProgramming, but I realized this might be a little bit too much. I rather stay with the theoretical part, for now.)
-
-```python
-
-from qiskit import QuantumCircuit
-qc = QuantumCircuit(3, 3)
-# measure qubits 0, 1 & 2 to classical bits 0, 1 & 2 respectively
-qc.measure([0,1,2], [0,1,2])
-qc.draw()
 
 
-```
+# Things I changed in Quartz 4 instance
 
-[^1]: There are two ways how footnotes can be added in obsidian. I am curious if both are compatible with quartz
+
+- Had a Weird behaviour on desktop (both on my 14" mac and 24" screen, all browsers): when the page is displayed at 100% the "mobile version" is shown, with a Header & Footer and no sidebars. Only if I zoom out to 90%, both sidebars get visible. I want to have this as a default, that desktop always gets a desktop view.
+	- Solved it for now by changing $sidePanelWidth to 360px in `variables.scss`

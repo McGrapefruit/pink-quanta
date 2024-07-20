@@ -221,11 +221,11 @@ a.internal {
 
 a.internal.tag-link {
     background-color: var(--light) !important;
-    color: var(--linkcolor);
+    color: var(--primary);
     border-radius: 20px;
     margin: 0 0.1rem;
     padding: 0.2rem 0.4rem;
-    border: 1px var(--linkcolor) solid;
+    border: 1px var(--primary) solid;
 }
 
 
@@ -557,7 +557,7 @@ hr {
 img {
     border-radius: 2px;
     max-width: 100%;
-    // box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;
+    box-shadow: rgba(239, 105, 158, 0.20) 0px 18px 50px -10px;
 }
 
 
@@ -566,4 +566,14 @@ img {
     min-width: -moz-fit-content;
     min-width: fit-content;
     max-width: none;
+}
+
+
+
+// Tables
+
+
+td {
+    padding: .2rem .7rem;
+    font-style: normal;
 }

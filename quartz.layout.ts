@@ -25,10 +25,8 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
    
     Component.SiteLogo(),
-
     Component.MobileOnly(Component.Spacer()),
     Component.DesktopOnly(Component.Graph()),
-
     Component.Search(),
     Component.MobileOnly(Component.Spacer()),
     

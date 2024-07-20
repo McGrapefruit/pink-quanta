@@ -9,9 +9,7 @@ tags:
 ---
 
 
-
-
-![[KALEIDOS-20240315222641542.png|300]]
+![[Kaleidos Logo SW.png|300]]![[KALEIDOS-20240315222641542.png|300]]
 
 Kaleidos Agency was founded in 2017 by [[Thomas Degen|Thomas Degen]] and me in his basement.
 

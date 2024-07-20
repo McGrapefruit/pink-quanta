@@ -48,7 +48,7 @@ related-to:
 				- Letter of References
 		- Design
 		- ...
-- **4 WORK**
+- **4 WORK** (*Chinese walls* between the subfolders)
 	- Freelance
 		- 41 Daily Work Logs
 		- 42 Project MOCs
