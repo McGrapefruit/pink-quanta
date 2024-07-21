@@ -8,8 +8,8 @@ space:
 title: Why not harness the virtual energy
 type: 
 related-to:
-  - "[[virtual particles]]"
-tags:
+  - "[[Virtual particles]]"
+tags: 
 ---
 ## Why not harness the virtual energy?
 

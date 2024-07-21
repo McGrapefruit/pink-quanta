@@ -7,7 +7,7 @@ title: Anesthesia Research on Consciousness
 type: 
 related-to: 
 tags:
-  - psychology
+  - Psychology
   - consciousness
 description: Research has shown that the state of unconsciousness induced by controlled intoxication with anesthetics is triggered by a reduction in the vibration frequency of microtubules, which normally occurs in the terahertz range. These findings imply that quantum vibrations within microtubules may play a crucial role in the development of human consciousness.
 ---

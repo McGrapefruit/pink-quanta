@@ -4,7 +4,7 @@ date_modified: 2024-07-13  02:51:38
 draft: false
 language: 
 spaces:
-  - "[[obsidian.md]]"
+  - "[[obsidian_md]]"
 subtype: refactored
 title: How I manage Projects and TASKS in Obsidian
 type: 

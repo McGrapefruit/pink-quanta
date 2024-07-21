@@ -3,7 +3,7 @@ tags:
   - Obsidian
   - Pink-Quanta
 spaces:
-  - "[[obsidian.md]]"
+  - "[[obsidian_md]]"
 related-to:
   - "[[My Obsidian System]]"
 ---

@@ -53,7 +53,7 @@ Also the pages consist of many QUANTA (chunks), therefore a clean but also disti
 
 
 
-# HOW I Structure my notes
+## HOW I Structure my notes
 
 At the start of a note I often describe the purpose, overview & status quo of the note / topic, as well as some todos
 
@@ -205,6 +205,10 @@ Same with the unordered bullet lists
 
 ![[Pink Quanta demo stylesheet-20240411151638601.png|300]]
 
+
+### Embeds
+
+![[testsheet]]
 
 
 # Things I changed in Quartz 4 instance

@@ -1,13 +1,13 @@
 ---
 title: The most common arguments against QM
 spaces:
-  - "[[quantum-mechanics]]"
+  - "[[quantum-mechanics (QM)]]"
 tags:
   - QM
 ---
 
 
-For a long time, doubts persisted about the correctness or completeness of [[quantum-mechanics|quantum mechanics]] (QM), also raised by famous scientists such as Albert Einstein. Einstein himself was not in favor of the theory of quantum mechanics; he attempted to refute it using the famous Einstein-Podolsky-Rosen paradox (EPR).[^1] He postulated that there must be an objective reality, regardless of whether it is measured or not. From his perspective, every particle must be determined, meaning its state is fixed before measurement, and the measurement process merely "reads" this state. A particle whose specific properties are measured (such as the direction of its spin) must have already possessed these properties before the measurement. These pre-existing properties (*hidden variables*) are simply unknown to us – a case of missing information. However, the arguments he presented have been gradually debunked over the last decades, first through the theoretical considerations of Bell in Bell's theorem[^2] (J. S. Bell, 1964; Einstein et al., 1935).
+For a long time, doubts persisted about the correctness or completeness of quantum mechanics (QM), also raised by famous scientists such as Albert Einstein. Einstein himself was not in favor of the theory of quantum mechanics; he attempted to refute it using the famous Einstein-Podolsky-Rosen paradox (EPR).[^1] He postulated that there must be an objective reality, regardless of whether it is measured or not. From his perspective, every particle must be determined, meaning its state is fixed before measurement, and the measurement process merely "reads" this state. A particle whose specific properties are measured (such as the direction of its spin) must have already possessed these properties before the measurement. These pre-existing properties (*hidden variables*) are simply unknown to us – a case of missing information. However, the arguments he presented have been gradually debunked over the last decades, first through the theoretical considerations of Bell in Bell's theorem[^2] (J. S. Bell, 1964; Einstein et al., 1935).
 
 ### Is reality created through observation?
 

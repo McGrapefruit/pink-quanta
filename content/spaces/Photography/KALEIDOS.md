@@ -5,7 +5,8 @@ draft:
 title: KALEIDOS
 type: 
 related-to: 
-tags: 
+tags:
+  - KALEIDOS
 ---
 
 
@@ -15,6 +16,19 @@ Kaleidos Agency was founded in 2017 by [[Thomas Degen|Thomas Degen]] and me in h
 
 
 
-View the website here: https://kaleidos-agency.com/
+View the website here: https://kaleidos-agency.com/ [^1]
 
-(The site broke with the last WP Update, currently trying to fix it. I remember now, why I hate Wordpress.)
+
+
+### Cafe Degen
+
+This is where it all begun:
+
+
+![[KALEIDOS-20240721041018747.jpg|600]]
+
+
+
+
+
+[^1]: (The site broke with the last WP Update, currently trying to fix it. I remember now, why I hate Wordpress.)

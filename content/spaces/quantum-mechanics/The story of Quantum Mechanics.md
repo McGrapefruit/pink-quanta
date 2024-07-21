@@ -1,13 +1,13 @@
 ---
 title: The story of Quantum Mechanics
 spaces:
-  - "[[quantum-mechanics]]"
+  - "[[quantum-mechanics (QM)]]"
 tags:
   - QM
 ---
 
 
-[[quantum-mechanics|Quantum Mechanics]] (QM) stands as one of the most successful theories of the 20th and 21st centuries, profoundly influencing our perspective on the world and revolutionizing our understanding of reality.
+Quantum Mechanics (QM) stands as one of the most successful theories of the 20th and 21st centuries, profoundly influencing our perspective on the world and revolutionizing our understanding of reality.
 Moreover, it is responsible for driving our rapid technological advancement.
 There have been many [[The most common arguments against QM|arguments against QM]] in the past, even by Einstein, but all their claims were falsified. To date, no new findings have emerged that contradict the theory of quantum mechanics or falsify any of its predictions (Dechamps et al., 2021).
 

@@ -8,7 +8,7 @@ space:
 title: Gall's Law
 type: 
 related-to:
-  - "[[obsidian.md]]"
+  - "[[obsidian_md]]"
 tags: 
 ---
 ## Definition

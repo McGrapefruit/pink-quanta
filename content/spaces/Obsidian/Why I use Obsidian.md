@@ -5,11 +5,11 @@ draft: false
 language: English
 title: Why I use Obsidian
 spaces:
-  - "[[obsidian.md]]"
+  - "[[obsidian_md]]"
 tags:
   - Obsidian
 ---
-### [[obsidian.md]] is my weapon of choice against the chaos in my life.
+### [[obsidian_md]] is my weapon of choice against the chaos in my life.
 
 **Here is why I use Obsidian and why you may also want to.**
 

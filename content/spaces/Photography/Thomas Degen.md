@@ -9,6 +9,7 @@ related-to:
 tags:
   - THD
   - Photography
+  - KALEIDOS
 ---
 
 ![[Thomas Degen-20240315222952600.png|400]]

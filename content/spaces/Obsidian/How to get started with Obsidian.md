@@ -2,7 +2,7 @@
 aliases: 
 tags: Obsidian
 spaces:
-  - "[[obsidian.md]]"
+  - "[[obsidian_md]]"
 ---
 
 

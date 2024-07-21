@@ -1,7 +1,7 @@
 ---
 title: Quantum fundamentalism
 spaces:
-  - "[[quantum-mechanics]]"
+  - "[[quantum-mechanics (QM)]]"
 tags:
   - QM
   - Draft
@@ -23,7 +23,7 @@ In a quantum world, which is abiding to the laws of quantum mechanics, Energy le
 > ==To each change in nature corresponds an integer number of quanta== of action. Action variables may only change by integer values of h, requiring all other physical quantities to change by discrete steps, “quantum jumps”. (Capellmann, 2021, S. 1)
 
 
-If everything is made out of quants, that means that on a very fundamentalistic level, [[spaces/quantum-mechanics|Quantum Mechanics]] *could* also describe some aspects happening on a macroscopic level – or it rather doesn‘t describe it. It just behaves weird.
+If everything is made out of quants, that means that on a very fundamentalistic level, [[quantum-mechanics (QM)|Quantum Mechanics]] *could* also describe some aspects happening on a macroscopic level – or it rather doesn‘t describe it. It just behaves weird.
 
 Every science-form could potentially shows quantum behaviour of some sort (to some extent). 
 For example, the principles of *non-linear,*  *discrete energy jumps*  (or principles "critical mass"[^3] as some people name it) can be found in biological processes.

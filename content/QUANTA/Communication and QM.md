@@ -12,12 +12,12 @@ tags:
   - Communication
   - QM
 space:
-  - "[[quantum-mechanics]]"
+  - "[[quantum-mechanics (QM)]]"
 ---
 
 
 ![[psychology_communication.png|500]]
-## What [[quantum-mechanics|QM]] and Communication have in common
+## What [[quantum-mechanics (QM)|QM]] and Communication have in common
 The *Theodor Schulz von Thun* claims among other psychologists, that in communication one plus one equals three.
 
 > The oversummativity equation: 1 + 1 = 3

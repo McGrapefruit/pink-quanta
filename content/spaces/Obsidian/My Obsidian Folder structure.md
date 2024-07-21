@@ -1,6 +1,6 @@
 ---
 spaces:
-  - "[[obsidian.md]]"
+  - "[[obsidian_md]]"
 date_created: 2024-05-30  19:05:39
 date_modified: 2024-05-30  19:05:42
 draft: 
