@@ -33,7 +33,7 @@ I'd love to hear from you. **Feel free to contact me, if you got any feedback or
 **This theme is designed to be used primarily in darkmode, to fully emerse with the content.** (Use the "sunny" icon near the search function)
 
 
-The styling of my System/theme follows one simple rule: [[Pink Quanta Theme|Blue is used for Links and references (WHERE & WHAT)]], ==PINK is the indicator(HOW/WHY).==
+The styling of my System/theme follows one simple rule: [[testsheet|Blue is used for Links and references (WHERE & WHAT)]], ==PINK is the indicator(HOW/WHY).==
 
 **How do we know something is important?** Through **contrast**.
 Our brain is programmed to focus on stimuli that stand out.

@@ -18,13 +18,13 @@ We are a [[Holacracy|holocratic]] team of planners with the ambitious vision of 
 
 ![[about me-20240721034345767.jpg|600]]
 
-Most of my 30 years I have lived in Munich, Germany.
-Although I am "only" 12 years of working experience, I had the opportunity to live a lot of different lives, work in many different jobs-sectors and experience a lot of unusual situations for my age.
+
+Although I am "only" 30 years old, with 12 years of working experience, I had the opportunity to live a lot of different lives, working in many different jobs-sectors and experiencing unusual situations for my age.
 
 I am no expert in the topics I write about - **I am a generalist** [(ENTP)](https://www.16personalities.com/entp-personality)
 
-I am multi interested person surrounded by inspiring people.
-I work ~~interdisziplinary~~ transdisziplinary and often come in contact with the same topics and ideas from different perspectives.
+I am multi-interested person surrounded by inspiring people.
+I work ~~interdisziplinary~~ transdisziplinary and come in contact with related topics and ideas from different perspectives on a regular basis.
 
 Learning is something I deeply enjoy - I invite you to join me on my cognitive adventures.
 

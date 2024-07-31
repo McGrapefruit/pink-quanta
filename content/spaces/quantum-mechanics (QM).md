@@ -26,7 +26,7 @@ I have always been a holistic system thinker, interested in how "systems" work.
 
 [[Quantum fundamentalism|Everything is made from Quants]] therefore every science-form potentially shows quantum behaviour of some sort (to some extent). You can even find quantum theories in (Micro-)Biology, System Theory, Psychology, and even Buddhism, if you are very creative.
 
-I have the pleasure of being friend with some Quantum-scientists like Marcus Reid @[Quantum Power Munich](https://quantumpowermunich.de/). Every time we share a beer together I feel like my worldview is getting more and more completed and destroyed at the same time.
+I have the pleasure of being friends with some Quantum-scientists like Marcus Reid @[Quantum Power Munich](https://quantumpowermunich.de/). Every time we share a beer together I feel like my worldview is getting more and more completed and destroyed at the same time.
 
 In this SPACE I want to share facts and have conversations about QM in simple understandable bits and bites – for anyone who has also not studied physics or mathematics (like myself).
 
