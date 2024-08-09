@@ -34,7 +34,7 @@ Feel free to say hi or start a conversation over mastodon / email.
 ## index of topics / Spaces
 
 - [[Psychology]]
-- [[quantum-mechanics (QM)|Quantum Mechanics (QM)]] 
+- [[quantum-mechanics|Quantum Mechanics (QM)]] 
 - [[Communication]]
 - [[obsidian_md|Obsidian.md]]
 - [[Photography]]

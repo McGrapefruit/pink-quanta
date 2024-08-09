@@ -9,7 +9,8 @@ title: Language and Identity
 type: 
 related-to:
   - "[[Same quotes in different languages]]"
-tags: 
+tags:
+  - Draft
 ---
 
 

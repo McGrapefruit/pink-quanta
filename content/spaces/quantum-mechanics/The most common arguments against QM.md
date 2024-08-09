@@ -1,7 +1,7 @@
 ---
 title: The most common arguments against QM
 spaces:
-  - "[[quantum-mechanics (QM)]]"
+  - "[[quantum-mechanics]]"
 tags:
   - QM
 ---

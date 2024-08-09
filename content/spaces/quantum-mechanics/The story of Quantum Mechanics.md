@@ -1,7 +1,7 @@
 ---
 title: The story of Quantum Mechanics
 spaces:
-  - "[[quantum-mechanics (QM)]]"
+  - "[[quantum-mechanics]]"
 tags:
   - QM
 ---

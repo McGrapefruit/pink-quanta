@@ -17,16 +17,20 @@ tags:
 ---
 
 
+
+
 In science, especially in physics, psychology and philosophy, researchers have always been concerned with describing our reality.
 
-Mankind in general has been searching for omni-present & consistent laws to understand and explain the world around them, which implies the thought, that the outside world is (at least to some degree) static and consistent. It is *real*.
+Mankind in general has been searching for omni-present & consistent laws to understand and explain the world around them, which implies the thought, that the outside world we subjectively perceive is static and consistent. It’s objective, it is *real*. This is not a simulation, Neo.
 
-But the first question is: 
+But still, the philosophical question has to be asked:
 
-###### What do we mean when we speak about the word 'reality'? 
-Is there a difference between what we perceive *subjectively* and whats happening outside of our mind – and is there even something like an objective reality at all?
+##### What do we mean when we speak about the word 'reality'? 
+
 
 What does *real* even mean?
+We *subjectively* measure the *objective* world.
+
 We normally refert to things being real, when we can measure them in some way. For a normal human, this means that we need to see, hear, smell or perceive it in some other sense.
 Scientists prove realness by coming up with some sort of design (operationalisation), to measure the existence of 'some-thing' and its characteristics.
 
@@ -38,26 +42,18 @@ Scientists prove realness by coming up with some sort of design (operationalisat
 > They may be called subjective in so far as they refer to our incomplete knowledge of the world. (Heisenberg et al. (1958)
 
 
-In classical physics objective reality is considered local and real (*local-realism*). [[quantum-mechanics (QM)|Quantum Mechanics]] changed our wordview in that matter, showing that measuring something can actually change reality, and that reality is not just objective and static – not everything is pre-determined!
-Even Einstein didnt like that thought at the time, that the universe could be indeterministic and wrote the famous EPR_Paper. Read more about [[The most common arguments against QM]].
 
+> [!NOTE] This is a Draft /  messy copypasta from my notes
 
+In classical physics, objective reality is considered both local and real, a concept known as *local realism*.
+However, [[quantum-mechanics|quantum mechanics]] revolutionized this view, demonstrating that measurement can alter reality. And that reality is not just objective and static – it is **not local**.
 
+Even Einstein resisted the idea of a indeterministic universe, famously critiquing it in his EPR paper.[^1] 
+But [[bell equations]] changed everything.
+If we stick to QM & *indeterminism* and following the implications of [[bell equations]], we have to give up either locality or realism (with locality being the choice we’d probably want to give up over realism).
 
+This implies that reality is neither purely objective nor static and is fundamentally non-local. Before a system is collapsed it behaves like a probability wave  $\Psi(x)$ and therefore has many possibilities for realisation.
 
-
-
-> [!indo]  this is a draft 
->
-> #### stop reading here, everything below is still a draft and might not be right / nor correct.
-
-
-
-A [[Quantum fundamentalism|Quantum Fundamentalists]] might say, that the measuring instrument (MI) and the measured object (MO), is entangled and could itself be represented by a state vector.
-
-
-So, when we introspectively question ourself about our own mind – the measuring device (our mind) and the object it is measuring (our mind) are one and the same. 
-How can we find reliable trues about ourself?
 
 
 
@@ -65,3 +61,5 @@ How can we find reliable trues about ourself?
 
 - Heisenberg, W., & Northrop, F. S. C. (1958). _Physics and philosophy: The revolution in modern science_ (p. 256). New York: Harper.
 - Heisenberg, W. (1989). _Physics & philosophy._ Penguin.
+
+[^1]: Read more about in: [[The most common arguments against QM]].

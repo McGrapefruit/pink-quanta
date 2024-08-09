@@ -31,5 +31,7 @@ Conversely, other substances, such as the psychoactive compound psilocybin, can 
 
 
 
+
+
 [^1]: Center for Consciousness Studies, University of Arizona, (2017)
 [^2]: Craddock et al. (2015) Anesthetics Act in Quantum Channels in Brain Microtubules to Prevent Consciousness

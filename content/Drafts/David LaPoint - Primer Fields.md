@@ -6,7 +6,7 @@ language:
 title: David LaPoint - Primer Fields
 type: 
 related-to:
-  - "[[quantum-mechanics (QM)]]"
+  - "[[quantum-mechanics]]"
 tags:
   - QM/QED
   - Draft
@@ -26,12 +26,21 @@ In this theory, [[Virtual particles]] — particles that temporarily appear and 
 
 LaPoint argues that these particles, along with the electromagnetic fields, create stable configurations and structures in the cosmos. This challenges the conventional understanding of gravity-dominated cosmic evolution and posits that electromagnetism and plasma physics are more significant than previously thought.
 
+%%
+Concepts that can be explained though this theory:
+- Strong force
+
+
+%%
+
 Overall, LaPoint's ideas propose a paradigm shift in understanding the forces and structures that govern the universe, emphasizing the importance of electromagnetic phenomena and virtual particles.
 
 
 
 
-source:: ![Youtube Video](https://youtu.be/siMFfNhn6dk?si=JwRAWmlkLyZo1snI)
+source::
+![Youtube Video](https://youtu.be/siMFfNhn6dk?si=JwRAWmlkLyZo1snI)
+
 
 [^1]: Also referred to as ‘quantum foam'
 [^2]: Ownership, patents, and copyright remains with the website and the author, David LaPoint. I am sharing this under the Creative Commons attribution-noncommercial-sharealike 3.0 unported license

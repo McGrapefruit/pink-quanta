@@ -6,7 +6,8 @@ language:
 title: Interesting Projects
 type: 
 related-to: 
-tags: 
+tags:
+  - Draft
 ---
 ##### Voluntary association I work with
 

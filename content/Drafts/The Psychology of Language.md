@@ -9,7 +9,8 @@ title: The Psychology of Language
 type: 
 related-to:
   - "[[Same quotes in different languages]]"
-tags: 
+tags:
+  - Draft
 ---
 
 

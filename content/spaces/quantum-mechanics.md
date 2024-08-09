@@ -1,5 +1,8 @@
 ---
-aliases: Quantum Mechanics
+aliases:
+  - Quantum Mechanics
+  - quantum mechanics
+  - Quantum mechanics
 date: 2024-03-10
 date_created: 2024-07-17  01:43:44
 date_modified: 2024-07-21  22:30:44

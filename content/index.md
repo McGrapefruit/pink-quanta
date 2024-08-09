@@ -29,7 +29,7 @@ Pleasure to meet you![^1]
 ## Index of topics / Spaces
 
 - [[Psychology]]
-- [[quantum-mechanics (QM)|Quantum Mechanics (QM)]]
+- [[quantum-mechanics|Quantum Mechanics (QM)]]
 - [[Communication]]
 - [[obsidian_md|Obsidian.md]]
 - [[Photography]]

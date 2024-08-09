@@ -10,6 +10,7 @@ related-to:
   - "[[index]]"
 tags:
   - Obsidian
+description: "Obsidian became my weapon of choice against the chaos in my life.."
 ---
 
 
@@ -50,7 +51,7 @@ I use Obsidian to track, document and plan everything I am interested in and wan
 	- things I `learn` 
 	- `photography` and `art` 
 	- `psychology` and QM
-- `freelance projects` & `side hussle`,
+- `freelance projects` & `side hustle`,
 - `burocracy`
 
 
