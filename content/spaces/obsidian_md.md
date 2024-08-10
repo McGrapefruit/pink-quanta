@@ -13,6 +13,7 @@ tags:
 description: "Obsidian became my weapon of choice against the chaos in my life.."
 ---
 
+
 [Obsidian](https://obsidian.md/) became my weapon of choice against the chaos in my life.
 In this blog I want to share my experience using Obsidian for every aspect of my life in the past 3 years.
 
@@ -25,9 +26,11 @@ In this blog I want to share my experience using Obsidian for every aspect of my
 
 Obsidian is a note app which can be configured and used in a million different ways, from simplistic note-taking to advanced *Information-Management-Systems*. 
 
-With obsidian it is possible to link related notes together and form some sort of digital-neural-network consisting of your own ideas, thoughts, documents and more.
-![[obsidian_md-20240810033119090.png|600]]
-(best viewed in darkmode)
+With obsidian it is possible to **link related notes together** and form some sort of *digital-neural-network* consisting of your own ideas, thoughts, documents and more.
+
+
+![[PinkQuanta graph view.png]]
+
 
 
 ##### why use Obsidian?
