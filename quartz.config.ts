@@ -34,7 +34,7 @@ const config: QuartzConfig = {
             header: "Roboto",
             body: "Roboto",
             code: "Roboto Mono",
-            bodyfontweight: 300,
+            bodyfontweight: 400,
 
           },
       },
