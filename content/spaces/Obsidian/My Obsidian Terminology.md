@@ -38,3 +38,12 @@ The only thing I added, was a DOC, which has a different purpose than all the ot
 | ==DOC==    | **Documents** with a definied purpose and structure. Important stuff which need safe keeping<br>Documentations, bureaucracy related stuff etc.                                                                                                                                                                                                                                                                                                   | Bureaucracy Docs, Documentation, Formal Letters                                                      |
 | ==ATOM==   | **Atoms** <br>Smallest unit of information that has value on its own (self-contained, isolated Knowledge )                                                                                                                                                                                                                                                                                                                                       | Wiki-Notes,<br>Article, Tutorial                                                                     |
 | ==QUANTA== | **Virtual particles**<br>Small fluctuating Information (zettels) with unclear goal; thinking on paper. Ideas which spontaneously emerge behave like fragile synapses searching new connections. Such neural networks are getting annihilated over time if they dont interact with another "System", strengthening the synapses. If its is not being linked / incorporated over time, it will be deleted.                                         | IDEA,  Thinking on Paper, "The idea I had when I drank my coffee - dont know what to do with it yet" |
+
+
+
+##### highlighted Graph   
+
+
+![[PinkQuanta graph view.png]]SPACEs are shown in Yellow, 
+MOCs are pink, 
+ATOMS are Blue/turquoise.

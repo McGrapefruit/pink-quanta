@@ -29,7 +29,6 @@ Obsidian is a note app which can be configured and used in a million different w
 With obsidian it is possible to **link related notes together** and form some sort of *digital-neural-network* consisting of your own ideas, thoughts, documents and more.
 
 
-![[PinkQuanta graph view.png]]
 
 
 
