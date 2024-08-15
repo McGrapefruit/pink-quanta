@@ -32,10 +32,9 @@ I am a communicator. I help to communicate and aggregate.
 I am a studied Psychologist specialized in communication and interaction – a system thinker and strong enthusiast of Quantum Mechanics. (In my opinion, [[Communication and QM]] have a lot in common.)
 
 
-If there is anything I am really good at, I guess its empathy (understanding peoples feelings and motives) and communication (extracting meaning / translating it for others to understand). I am a sensitive person who perceives things that others often don't notice. 
+If there is anything I am good at, I’d guess its empathy (understanding peoples feelings and motives) and communication (extracting meaning / translating it for others to understand). I am a sensitive person who perceives things that others often don't notice. 
 
-I am a META-Thinker, I like talking about the bigger picture.
-
+I like to think about the bigger picture.
 
 > ==Think outside the box, an remember - there is no box!==
 
