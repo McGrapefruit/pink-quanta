@@ -39,12 +39,18 @@ On the right sidebar (or bottom if you are on mobile ) you find Backlinks to rel
 
 
 
-## Index of topics / Spaces
+## INDEX 
+Topics I like to think and talk about:
 
-- [[Psychology]]
-- [[quantum-mechanics|Quantum Mechanics (QM)]]
-- [[Communication]]
-- [[obsidian_md|Obsidian.md]]
 - [[Photography]]
+- [[quantum-mechanics|Quantum Mechanics (QM)]]
+- [[obsidian_md|Obsidian.md]]
+- [[Psychology]]
+- [[Communication]]
+
+
+
+
+
 
 [^1]: Feel free to say hi or start a conversation over mastodon / email. Always interested in getting to know new folks.

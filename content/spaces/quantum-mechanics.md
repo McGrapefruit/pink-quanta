@@ -17,9 +17,6 @@ tags:
 ---
 
 
-![[quantum-mechanics-abstract-particle-wave.png|400]]
-
-
 I wrote my thesis in Psychology about Quantum Mechanics – sounds more advanced than it is.
 
 Since then I am a great Enthusiast of QM.
@@ -27,12 +24,14 @@ I have always been a holistic system thinker, interested in how "systems" work.
 
 [[Quantum fundamentalism|Everything is made from Quants]] therefore every science-form potentially shows quantum behaviour of some sort (to some extent). You can even find quantum theories in (Micro-)Biology, System Theory, Psychology, and even Buddhism, if you are very creative.
 
+![[quantum-mechanics-abstract-particle-wave.webp|600]]
+
 I have the pleasure of being friends with some Quantum-scientists like Marcus Reid @[Quantum Power Munich](https://quantumpowermunich.de/). Every time we share a beer together I feel like my worldview is getting more and more completed and destroyed at the same time.
 
 In this space I want to share facts and have conversations about QM in simple understandable bits and bites – for anyone who has also not studied physics or mathematics (like myself).
 
 ## INDEX
-%%
+
 - [[The story of Quantum Mechanics]]
 - [[Quantum fundamentalism]]
 - [[The most common arguments against QM]]
@@ -40,7 +39,3 @@ In this space I want to share facts and have conversations about QM in simple un
 
 
 
-![[index-20240711234652618.png|400]]
-
-
-%%
