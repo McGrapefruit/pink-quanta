@@ -26,6 +26,7 @@ When there is something that I have learned:
 Throughout my life I have done a lot of things I was told I wouldn't be capable of.
 
 - My teachers told me I was a lost cause, that I would never be successful. I just wasn't interested in what they had to offer me.
+- when I asked about the #theory/relativity my math teacher laughed at me and told me I would never understand it, so there is no point in explaining it to me
 - When I quit school to be a professional magician, I was laughed at.
 - When I go back to school to get my highschool degree (Abitur) a view years later, everyone was very sceptical
 - When I told them I wanted to study psychology (which requires only the best grades), they laughed at me
