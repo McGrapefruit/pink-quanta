@@ -11,39 +11,8 @@
 
 
 
-// Tags Styling vs space (no #)
-
- div.popover-hint h2 a.internal.tag-link:before, p.content-meta a.internal.tag-link:before {
-
-    content: "";
-}
 
 
-// Tags Styling within contentmeta
-
-div.popover-hint h2 a.internal.tag-link, p.content-meta a.internal.tag-link {
-    background-color: var(--primary) !important;
-    color: var(--light);
-    border-radius: 5px;
-    margin: 0 0.1rem;
-    padding: 0.1rem 0.3rem 0.1rem 0.1rem;
-    border: none;
-}
-
-
-
-
-
-
-
-// SPACE MOCS: No underlined links
-
-
-div.desc h3, div.desc a  {
-    
-    underline: none !important;
-    text-decoration: none !important;
-}
 
 
 
@@ -66,6 +35,7 @@ li.section-li>.section>.meta {
 
 
 em {
+    font-family: var(--italicVariantFont) !important;
     font-style: italic;
     color: var(--dark) !important;
 
@@ -76,11 +46,28 @@ em {
 }
 
 strong {
-    font-weight: 900 !important;
-    font-family: var(--headerFont);
-
     letter-spacing: 0.5px;
+
 }
+
+
+
+[saved-theme="light"] .page article p>strong {
+    color: var(--dark);
+    font-weight: 700;
+}
+
+
+
+
+
+
+[saved-theme="dark"] .page article p>strong {
+    font-weight: 400 !important;
+    color: var(--primary);
+
+}
+
 
 
 
@@ -97,10 +84,17 @@ body, section {
     letter-spacing: 0.3px;
     box-sizing: border-box;
 
+    font-size: 18px;
+
+
+
 }
 
 
+[saved-theme="dark"] body, section {
+    font-size: 18px;
 
+}
 
 
 ::marker {
@@ -108,18 +102,47 @@ body, section {
 
 }
 
+
+
+// Bullet Lists
+
+tbody, li, p {
+    line-height: 1.6rem;
+    padding-bottom: 0.3em;
+}
+
+
 // general stuff
 
-.text-highlight {
-    font-family: var(--headerFont);
 
-    background-color: var(--primary);
+
+ [saved-theme="dark"] .text-highlight {
+
+
+    background-color: var(--highlight);
     font-weight: var(--bodyfontweight);
 
     color: var(--light);
     border-radius: 0px;
     padding: 0 0.2rem;
+    font-weight: 500;
+
+
 }
+
+[saved-theme="light"] .text-highlight {
+
+
+    background-color: var(--highlight);
+    font-weight: var(--bodyfontweight);
+
+    color: var(--light);
+    border-radius: 0px;
+
+    font-weight: 400;
+
+}
+
 
 
 .explorer {
@@ -185,21 +208,46 @@ button#explorer.collapsed .fold {
     display: flex;
 }
 
+.search p {
+    font-family: var(--headerFont);
+}
 
 
 // Internal Links
 
-a {
+
+
+// Breaccrumb links as san serif UX
+
+.breadcrumb-element a {
     color: var(--linkcolor);
     font-weight: 400;
     text-decoration: none;
     transition: color .2s;
 
+    font-family: var(--headerFont);
+    font-variant: small-caps;
 
 }
 
 
-a.internal {
+.breadcrumb-element a:hover {
+    color: var(--linkcolor);
+    font-weight: 400;
+    text-decoration: none;
+    transition: color .2s;
+
+    font-family: var(--headerFont);
+    text-decoration: var(--primary) underline;
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 0.1em; 
+    
+}
+
+
+
+
+/* a.internal {
 
     font-weight: 400;
     background-color: var(--linkbackground) !important;
@@ -212,11 +260,127 @@ a.internal {
     
 }
 
+*/
+
+
+
+a.internal {
+
+    font-weight: 500;
+    color: var(--linkcolor) !important;
+    border-radius: 2px;
+    padding: 0 0.1rem;
+    line-height: 1.4rem;
+    background: none;
+
+    text-decoration-color: var(--linkbackground);
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 0.1em;
+;
+
+
+}
+
+[saved-theme="light"] a.internal {
+    color: var(--linkcolor) !important;
+    background-color: var(--linkbackground) !important;
+
+    border-radius: 2px;
+    padding: 0 0.1rem;
+    line-height: 1.4rem;
+
+
+    font-weight: 600;
+
+    /*
+    text-decoration: var(--primary) underline;
+    text-underline-offset: 0.25em;
+    text-decoration-thickness: 0.8px; 
+    */
+}
+
+
+
+[saved-theme="light"]  a:hover {
+
+    color: var(--linkcolor) !important;
+    border-radius: 2px;
+    padding: 0 0.1rem;
+    line-height: 1.4rem;
+    background-color: var(--light) !important;
+    background: none !important;
+
+    text-decoration: var(--linkcolor) underline;
+    text-underline-offset: 0.4em;
+    text-decoration-thickness: 0.8px; 
+
+   
+
+}
+
+
+
+[saved-theme="dark"] a.internal {
+    font-style: normal !important;
+    text-transform: none;
+    font-variant: normal !important;
+
+    font-weight: var(--bodyfontweight);
+
+    letter-spacing: 0px;
+    word-spacing: 0em;
+
+}
+
+[saved-theme="dark"]  a:hover {
+
+
+    color: var(--linkcolor) !important;
+    border-radius: 2px;
+    padding: 0 0.1rem;
+    line-height: 1.4rem;
+    background-color: none;
+    text-decoration: var(--linkcolor) underline;
+    text-underline-offset: 0.4em;
+    text-decoration-thickness: 0.5px; 
+
+    
+}
+
+
+
+
+
+
+
+
+// SPACE MOCS: No underlined links
+
+
+div.desc h3, div.desc a  {
+    
+    underline: none ;
+    text-decoration: none ;
+}
+
+
+// consistent fonts for links
+h3 a {
+
+    font-family: var(--bodyFont);
+}
+
+
+
+
+
+
 // MEta daten
 
 .content-meta {
     color: var(--gray);
     margin-top: 0;
+    margin-bottom: 2em;
 
 }
 
@@ -228,14 +392,63 @@ a.internal {
 
 a.internal.tag-link {
     background-color: var(--light) !important;
-    color: var(--primary);
+    color: var(--primary) !important;
     border-radius: 20px;
     margin: 0 0.1rem;
     padding: 0.2rem 0.4rem;
     border: 1px var(--primary) solid;
+    text-decoration: none !important;
+    font-style: normal !important;
+    font-family: var(--headerFont);
+
 }
 
 
+
+a.internal.tag-link:hover {
+background-color: var(--primary) !important;
+    color: var(--light) !important;
+    border: none;
+
+}
+
+
+
+
+
+// Tags Styling vs space (no #)
+
+ div.popover-hint h2 a.internal.tag-link:before, p.content-meta a.internal.tag-link:before {
+
+    content: "";
+}
+
+
+// Tags Styling within contentmeta
+
+div.popover-hint h2 a.internal.tag-link, p.content-meta a.internal.tag-link {
+    background-color: var(--primary) !important;
+    color: var(--light) !important;
+    border: none;
+    border-radius: 5px;
+    margin: 0 0.1rem;
+    padding: 0.1rem 0.3rem 0.1rem 0.1rem;
+}
+
+
+
+div.popover-hint h2 a.internal.tag-link:hover, p.content-meta a.internal.tag-link:hover   {
+    background-color: var(--light) !important;
+    color: var(--primary) !important;
+    border-radius: 5px;
+    margin: 0 0.1rem;
+    padding: 0.1rem 0.3rem 0.1rem 0.1rem;
+
+    border: 1px var(--primary) solid;
+    text-decoration: none !important;
+
+
+}
 
 
 
@@ -250,7 +463,6 @@ blockquote {
 
     font-weight: var(--blockquote-font-width);
     letter-spacing: 0.81px;
-    font-style: italic;
 
     color:  var(--text-normal) !important; 
 
@@ -265,7 +477,15 @@ blockquote {
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: justify;
+
+
 }
+
+[saved-theme="dark"] blockquote {
+
+   font-style: italic;
+}
+
 
 
 // Embeds
@@ -325,23 +545,50 @@ display:none;
 
 }
 
+
 .page article>h1 {
-    font-size: 1.75em;
-    font-weight: 600;
-    color: var(--secondary);
-    
+    font-size: 1.35em;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: left;
+    padding-top: 0.1em;
+    border-top: 4px solid var(--linkcolor);
+
+    margin-top: 5em;
     margin-bottom: 2.5rem;
 
-    text-transform: uppercase;
-    text-align: center;
+}
 
-    margin-top: 4rem;
 
-    padding-top: 2rem;
-    border-top: 2px solid var(--linkcolor);
+
+
+[saved-theme="light"] .page article>h1 {
+    font-size: 1.35em;
+    font-weight: 900;
+    color: var(--primary);
+    
+
+    text-align: left;
+
+    padding-top: 0.1em;
+    border-top: 4px solid var(--primary);
 
 
 }
+
+[saved-theme="dark"] .page article>h1 {
+    font-size: 1.5em;
+    font-weight: 900;
+    color: var(--linkcolor);
+    
+    border-top: 4px solid var(--linkcolor);
+
+
+}
+
+
+
+// Page title
 
 h1 {
   font-size: 1.75em;
@@ -356,21 +603,29 @@ h1 {
 
 
 
-h2 {
+[saved-theme="light"] h2 {
   color: var(--dark);
-  font-weight: 500 ;
-  font-size: 1.5em ;;
+font-weight: 700 ;
+font-size: 1.75em ;;
 
-  letter-spacing: 0.5px;
-  margin-top: 3rem;
-  text-transform: uppercase;
+letter-spacing: 0.5px;
+margin-top: 3rem;
 
-  }
+}     
+
+[saved-theme="dark"] h2 {
+color: var(--dark);
+font-weight: 700 ;
+font-size: 1.75em ;;
+
+letter-spacing: 0.5px;
+margin-top: 3rem;
+
+}
 
 
-
-h3 {
-  color: var(--primary);
+[saved-theme="dark"] h3 {
+  color: var(--dark);
   font-weight: 500;
   font-size: 1.25em;
   letter-spacing: 0.5px;
@@ -388,10 +643,25 @@ h3 {
 }
 
 
+h3 {
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 1.25em;
+  letter-spacing: 0.5px;
+  line-height: 1.6em;
+
+  text-transform: none;
+ 
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+
+}
+
+
 // Color of the notetitles in search
 .search>#search-container>#search-space>#search-layout>#results-container .result-card>h3 {
     margin: 0;
-    text-decoration: none;
+    text-decoration: none !important;
     color: var(--linkcolor);
     
 }
@@ -419,6 +689,8 @@ h3 {
 
 }
 
+
+
 button#toc h3 {
     margin: 0;
     font-size: 1rem;
@@ -433,12 +705,33 @@ button#toc h3 {
 }
 
 
-h4 {
+[saved-theme="light"] h4 {
 
+font-family: var(--italicVariantFont);
 color: var(--dark);
 
 font-size: 1.2em ;
-font-weight: 300 ;
+font-weight: 600 ;
+letter-spacing: 1.1px;
+font-style: italic;
+font-variant: normal;
+
+padding-top: 15px;
+text-decoration: var(--dark) underline; 
+text-underline-offset: 0.35em;
+text-decoration-thickness: 0.5px;
+
+}
+
+
+[saved-theme="dark"] h4 {
+
+font-family: var(--italicVariantFont);
+
+color: var(--dark);
+
+font-size: 1.1em ;
+font-weight: 200 ;
 letter-spacing: 1.1px;
 font-style: italic;
 font-variant: normal;
@@ -450,11 +743,17 @@ text-decoration: var(--primary) underline;
 
 }
 
-h5 {
+
+
+
+
+
+
+[saved-theme="dark"] h5 {
   font-family: var(--codeFont);
 
   color:  var(--primary);
-  font-weight: 600 ;
+  font-weight: 400 ;
   font-size: 0.8em ;
   letter-spacing: 1.5px;
   
@@ -464,6 +763,33 @@ h5 {
 
 }
 
+
+h5 {
+  font-family: var(--codeFont);
+
+  color:  var(--primary);
+  font-weight: 500 ;
+  font-size: 0.8em ;
+  letter-spacing: 1px;
+  
+  font-style: normal;
+  font-variant: normal;
+  text-transform: uppercase;
+
+}
+
+
+[saved-theme="dark"]  h6 {
+  font-family: var(--codeFont);
+    
+  color:  var(--dark);
+  font-weight: 400 ;
+  font-size: 0.8em ;
+  letter-spacing: 1.5px;
+  
+  font-style: normal;
+  font-variant: normal;
+}
 
 h6 {
   font-family: var(--codeFont);
@@ -481,16 +807,17 @@ h6 {
 
 
 
-
-
 code {
     color: var(--dark);
     font-weight: 400;
     border-radius: 5px;
-    background-color: var(--light);
+
+    background: var(--light);
     border: 1px solid var(--primary);
 
 }
+
+
 
 
 
@@ -566,12 +893,45 @@ th {
 
 
 .callout[data-callout=note] {
-    --color: #000;
+    --color: var(--light);
     --border: #ef699e;
     --bg: #ef699e;
     --callout-icon: var(--callout-icon-note);
+
 }
 
+.callout[data-callout=note] >:nth-child(2)  {
+    margin-top: 0;
+    font-style: normal !important;
+    color: #000;
+
+}
+
+.callout[data-callout=note]>:nth-child(2) strong  {
+    font-weight: 800 !important;
+    font-style: normal !important;
+    color: #000;
+
+}
+
+
+
+
+// Styling of callout paragraph & title
+
+.callout-title>.callout-title-inner>p {
+    color: var(--color);
+    margin: 0;
+    font-style: normal !important;
+    font-family: var(--headerFont);
+    font-weight: 900;
+
+}
+
+.callout>:nth-child(2) {
+    margin-top: 0;
+    font-style: normal !important;
+}
 
 
 // Divider
@@ -599,6 +959,7 @@ img {
     min-width: fit-content;
     max-width: none;
 }
+
 
 
 

@@ -10,15 +10,16 @@ tags:
   - Pink-Quanta
 ---
 
+
 > [!note] This page is still evolving. If you have questions, wanna learn more or have a nerdy conversation, hit me up
+> I spent a lot of time fiddeling with my obsidian vault and there is a lot I have learned about **efficient, future-proof and sustainable structures**. We are a society sharing collective knowledge. If you seek assistance with your organisational structure, hit me up - I'm happy to help.
 
-> [!info]  I dont think everybody needs to learn everything 
-> I spent a lot of time fiddeling with my obsidian vault and there is a lot I have learned about **efficient, future-proof and sustainable structures**.
-> It easily took me 500+ hours to be where I am at, but ==if I had to start from scratch today, I would be operable in less than a day.==
-> We are a society sharing collective knowledge. If you seek assistance with your organisational structure, hit me up - I'm happy to help.
->
-## My [[obsidian_md]] Workflow
 
+
+
+
+
+## My [[obsidian_md|Obsidian.md]] Workflow
 My system combines my experiences from different companies and their data structures as well as inspirations from different systems/frameworks.
 
 In my opinion, **a good system should address and mimic how the human brain is designed:**

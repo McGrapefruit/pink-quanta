@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "PINKquanta",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
       provider: 'umami', 
       host: 'cloud.umami.is', 
@@ -26,21 +26,23 @@ const config: QuartzConfig = {
       typography: {
           lightMode: {
               header: "Roboto",
-              body: "Roboto",
+              body: "Spectral",
               code: "Roboto Mono",
+              italicVariant: "Spectral",
               bodyfontweight: 400,
             },
           darkMode: {
             header: "Roboto",
             body: "Roboto",
             code: "Roboto Mono",
+            italicVariant: "Spectral",
             bodyfontweight: 400,
 
           },
       },
       colors: {
           lightMode: {
-            light: "#faf8f8",
+            light: "#ffffff",
             lightgray: "#e5e5e5",
             gray: "#b8b8b8",
             darkgray: "#4e4e4e",
@@ -48,10 +50,11 @@ const config: QuartzConfig = {
             yellow: "#F3A712",
             primary: "#ef699e",
             secondary: "#2b2b2b",
-            tertiary: "#3dd7fb28",
+            tertiary: "#ef699e",
             linkcolor: "#288CAB",
             linkbackground: "#3dd7fb28",
-            highlight: "rgba(143, 159, 169, 0.15)",          
+            highlight: "rgb(239, 105, 158)",
+               
           },
         darkMode: {
             light: "#030F25",
@@ -62,7 +65,7 @@ const config: QuartzConfig = {
               yellow: "#FFD000",
               primary: "#ef699e",
               secondary: "#3dd7fb",
-              tertiary: "#2c5579",
+              tertiary: "#d4d4d4",
               linkcolor: "#3dd7fb",
               linkbackground: "#030F25",
               highlight: "rgb(239, 105, 158)",

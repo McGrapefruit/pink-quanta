@@ -20,11 +20,24 @@ Pleasure to meet you![^1]
 
 ![[Nikolaus_leonard.jpg|600]]
 
-##### This site follows one simple rule
+### How to use this site
 
-[[spaces|Blue is for reference WHERE &WHAT]], ==PINK is the indicator (HOW/WHY)==
 
- **Consider using this site in darkmode**, to fully emerse with the content. (Use the sun/moon icon near the search function)
+
+**Consider using this site in darkmode**, to fully emerse with the content. (Use the sun/moon icon near the search function)
+
+The site follows one simple design rule:
+[[spaces|Click-able links are blue, they provide reference (who, what & where)]], ==pink is the indicator (how / why)==
+
+
+Rather than long linear articles, the site consists of many shorter, but interconnected notes which together form a *digital-neural-network* that grows over time. 
+
+This enables a special kind of reading experience, where you can **choose your own path through the rabbithole of curated information**. Follow your curiosity whereever it may lead you.
+
+On the right sidebar (or bottom if you are on mobile ) you find Backlinks to related notes. If you are on Desktop, use the graphview to discover more related topics. The search function provides fulltext-search over all pages – use keyword to find your way around.
+
+
+
 
 ## Index of topics / Spaces
 

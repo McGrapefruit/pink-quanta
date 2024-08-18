@@ -14,7 +14,7 @@ aliases:
 ---
 
 
-![[quantum-mechanics-20240712004915398.png|500]]
+![[quantum-mechanics-abstract-particle-wave.png|500]]
 
 
 ##### Definition of Virtual Particles

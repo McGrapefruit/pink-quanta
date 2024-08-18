@@ -31,13 +31,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     
     Component.Darkmode(),
+
    
   
   
   ],
   right: [
     
-    Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     
   ],
@@ -54,7 +54,7 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [
 
-    Component.DesktopOnly(Component.TableOfContents()),
+
 
 
 

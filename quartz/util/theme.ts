@@ -23,6 +23,7 @@ export interface Theme {
     header: string
     body: string
     code: string
+    italicVariant: sting
     bodyfontweight: string
 
   }
@@ -61,6 +62,8 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --headerFont: "${theme.typography.lightMode.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.lightMode.body}", ${DEFAULT_SANS_SERIF};
+  --italicVariantFont: "${theme.typography.lightMode.italicVariant}", ${DEFAULT_SANS_SERIF};
+  
   --codeFont: "${theme.typography.lightMode.code}", ${DEFAULT_MONO};
   --bodyfontweight: "${theme.typography.lightMode.bodyfontweight}", 200; 
 
@@ -81,7 +84,7 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.darkMode.highlight};
   --bodyFont: "${theme.typography.darkMode.body}", ${DEFAULT_SANS_SERIF};
   --bodyfontweight: "${theme.typography.darkMode.bodyfontweight}", 100; 
-
+  --italicVariantFont: "${theme.typography.darkMode.italicVariant}", ${DEFAULT_SANS_SERIF};
 }
 `
 }

@@ -9,7 +9,6 @@ related-to:
 ---
 ### Terminologies are schemata that make life easier
 
-
 In the PKM-community many people use terminologies and frameworks to add meaningful information about a note. 
 
 Often times analogies of plants with their evolving states are being used to describe the degree of elaboration/ completion. Some people are calling their new notes "seedlings", while elaborated ones are called "Forest" or "Evergreen".
@@ -18,7 +17,16 @@ I like nature, but I am really not a plant person. The only plant which I manage
 
 So, I wanted something which suits my passion, so I named and built my system on the analogy of physical particles.
 
+
+
+
 ### Types of notes / content
+
+> [!info]  DONT DO THIS AT HOME
+> 
+> This is my terminology, I am sharing it for inspiration on ways to categorize your notes – in case you are curious.
+> 
+> Dont make the mistake in copying those for yourself. I mean you are allowed if you want, but I really cant reccomend it. Do the thing that feels intuitive to your brain and your way of thinking
 
 Everything starts with a **QUANTUM**, which is a fluctuating thought I wrote down. Either they get linked to other notes, grow and persist, or they die - like a seedling that is not watered - or like the synaptic connection between two neurons that is not being used.
 My inbox is structured similarly to the [Hot-cool Inbox](https://notes.linkingyourthinking.com/Atlas/Inbox) from the LYT-framework. That way I keep track of older Quanta and can decide how to proceed with these notes.
