@@ -54,7 +54,11 @@ Each of us thinks and visualizes differently, so many different perspectives on 
 But unfortunately, the topic of quantum mechanic is still held hostage by  mathematicians and (particle) physicists. When those quantum scientists talk about QM, they often exclusively use language that cant be understood by the everyday person.
 
 
-$$i\hbar \frac{\partial}{\partial t} \Psi (\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi (\mathbf{r}, t)$$
+$$
+
+i\hbar \frac{\partial}{\partial t} \Psi (\mathbf{r}, t) = \left( -\frac{\hbar^2}{2m} \nabla^2 + V(\mathbf{r}, t) \right) \Psi (\mathbf{r}, t)
+
+$$
 
 
 I’ll be honest, formulas like this look really scary.

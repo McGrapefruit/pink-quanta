@@ -354,17 +354,27 @@ a.internal {
 
 
 
-// SPACE MOCS: No underlined links
+// SPACE MOCS / Folder view: No underlined links
 
 
-div.desc h3, div.desc a  {
+div.desc h3, div.desc a , .desc>h3>a  {
     
     underline: none ;
     text-decoration: none ;
+    font-size: 1em;
 }
 
 
-// consistent fonts for links in H§
+// make tags smaller in Folder view
+
+
+ul.tags a.internal.tag-link {
+  font-size: 0.8em;
+}
+
+
+// consistent fonts for links in H3
+
 h3 a {
 
     font-family: var(--bodyFont);
