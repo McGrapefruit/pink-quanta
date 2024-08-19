@@ -35,15 +35,25 @@ li.section-li>.section>.meta {
 
 
 em {
-    font-family: var(--italicVariantFont) !important;
+
     font-style: italic;
     color: var(--dark) !important;
 
     font-weight: 400 !important;
     font-size: 1em;
-
-
 }
+
+
+[saved-theme="dark"] em {
+    font-family: var(--italicVariantFont);
+    font-style: italic;
+    color: var(--dark) !important;
+
+    font-weight: 400 !important;
+    font-size: 1em;
+}
+
+
 
 strong {
     letter-spacing: 0.5px;
@@ -55,6 +65,9 @@ strong {
 [saved-theme="light"] .page article p>strong {
     color: var(--dark);
     font-weight: 700;
+    font-family: var(--bodyFont);
+
+
 }
 
 
