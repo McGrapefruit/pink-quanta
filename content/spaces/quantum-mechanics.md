@@ -38,8 +38,7 @@ Enjoy the read.
 - [[Quantum fundamentalism]]
 
 
-![[quantum-mechanics-abstract-particle-wave.jpg|600]]
-
+![[abstract-particle-wave.jpg|600]]
 
 
 
