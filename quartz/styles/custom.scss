@@ -239,6 +239,15 @@ button#explorer.collapsed .fold {
 
 }
 
+
+[saved-theme="light"] a {
+    color: var(--linkcolor);
+    font-weight: var(--fontWeightBody);
+
+}
+
+
+
 // Internal Links
 
 
@@ -357,6 +366,8 @@ a.internal {
 // SPACE MOCS / Folder view: No underlined links
 
 
+
+
 div.desc h3, div.desc a , .desc>h3>a  {
     
     underline: none ;
@@ -380,6 +391,20 @@ h3 a {
     font-family: var(--bodyFont);
 }
 
+
+.section h3, .section>.tags {
+    margin-left: 2em;
+}
+
+
+// meta (date of last update of the note in Folderview)
+
+
+p.meta{
+    
+    font-size: 0.8em;
+
+}
 
 
 
