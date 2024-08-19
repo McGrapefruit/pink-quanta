@@ -63,7 +63,6 @@ ${stylesheet.join("\n\n")}
   --linkbackground: ${theme.colors.lightMode.linkbackground};
   --highlight: ${theme.colors.lightMode.highlight};
   --headerFont: "${theme.typography.lightMode.header}", ${DEFAULT_SANS_SERIF};
-  
 
 }
 
@@ -71,7 +70,7 @@ ${stylesheet.join("\n\n")}
   --bodyFont: "${theme.typography.lightMode.body}", ${DEFAULT_SERIF};
   --italicVariantFont: "${theme.typography.lightMode.italicVariant}", ${DEFAULT_SANS_SERIF};
   --codeFont: "${theme.typography.lightMode.code}", ${DEFAULT_MONO};
-  --bodyfontweight: "${theme.typography.lightMode.bodyfontweight}", 400; 
+  --fontWeightBody: "${theme.typography.lightMode.fontWeight}", 400; 
 
 
 }
@@ -90,7 +89,7 @@ ${stylesheet.join("\n\n")}
   --linkbackground: ${theme.colors.darkMode.linkbackground};
   --highlight: ${theme.colors.darkMode.highlight};
   --bodyFont: "${theme.typography.darkMode.body}", ${DEFAULT_SANS_SERIF};
-  --bodyfontweight: "${theme.typography.darkMode.bodyfontweight}", 400; 
+  --fontWeightBody: "${theme.typography.darkMode.fontWeight}"; 
   --italicVariantFont: "${theme.typography.darkMode.italicVariant}", ${DEFAULT_SANS_SERIF};
 }
 `

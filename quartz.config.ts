@@ -28,15 +28,13 @@ const config: QuartzConfig = {
               header: "Roboto",
               body: "Spectral",
               code: "Roboto Mono",
-              italicVariant: "Spectral",
-              bodyfontweight: 400,
+              fontWeight: 400,
             },
            darkMode: {
               header: "Roboto",
               body: "Roboto",
               code: "Roboto Mono",
-              italicVariant: "Spectral",
-              bodyfontweight: 400,
+              fontWeight: 400,
             },
       },
       colors: {
