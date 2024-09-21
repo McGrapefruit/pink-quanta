@@ -496,8 +496,8 @@ blockquote {
 
     line-height: 1.4em;
     font-size: 0.95em;
-
     font-weight: var(--blockquote-font-width);
+
     letter-spacing: 0.81px;
 
     color:  var(--text-normal) !important; 
@@ -524,6 +524,8 @@ blockquote {
 
 
 
+
+
 // Embeds
 
 blockquote.transclude {
@@ -533,8 +535,9 @@ blockquote.transclude {
   padding-bottom: 10px;
   margin: 0;
   border-left: 2px solid var(--linkcolor) !important;
-  font-style: normal;
+
   transition: border-color .2s;
+
 }
 
 
