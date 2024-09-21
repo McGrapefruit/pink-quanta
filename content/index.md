@@ -9,7 +9,7 @@ related-to:
 
 Hi there!
 
-Welcome to my *digitalgarden*.
+Welcome to my *digital garden*.
 This is a zettelkasten of collective knowledge, curated by me - [[about me|Nikolaus Leonard]].
 
 The purpose of this site is to connect with likeminded people and to discuss ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art.

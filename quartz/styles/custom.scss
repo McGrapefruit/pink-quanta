@@ -39,7 +39,7 @@ em {
     font-style: italic;
     color: var(--dark) !important;
 
-    font-weight: 400 !important;
+    font-weight: 300 !important;
     font-size: 1em;
 }
 
@@ -88,7 +88,7 @@ strong {
 [saved-theme="light"] body, section {
 
 
-    font-weight: var(--fontWeightBody);
+    font-weight: 300;
     font-family:  var(--bodyFont);
 
     background-color: var(--light);
@@ -284,6 +284,8 @@ a.internal {
     border-radius: 2px;
     padding: 0 0.1rem;
     line-height: 1.4rem;
+
+
 }
 
 
@@ -1006,5 +1008,15 @@ td {
 }
 
 
+
+// LATEX KATEX
+
+
+.katex-display {
+    
+
+    padding: 1.5rem;
+
+}
 
 
