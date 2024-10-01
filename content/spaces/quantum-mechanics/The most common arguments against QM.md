@@ -35,7 +35,7 @@ For physicists are indeed in agreement today that our world is built on quantum 
 (Smolin, 2019; wZinkernagel, 2016a)
 
 
-## SOurces
+## Sources
 - Einstein, A., Podolsky, B., & Rosen, N. (1935). Can Quantum-Mechanical Description of Physical Reality Be Considered Complete? _Phys. Rev._, _47_(10), 777–780. [https://doi.org/10.1103/PhysRev.47.777](https://doi.org/10.1103/PhysRev.47.777)
 - Bell, J. S. (1964). On the einstein podolsky rosen paradox. _Physics Physique Fizika_, _1_(3), 195.
 - Bell, J. (1990). Against ‘measurement’. _Physics world_, _3_(8), 34.

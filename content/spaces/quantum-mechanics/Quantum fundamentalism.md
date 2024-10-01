@@ -29,7 +29,7 @@ In a quantum world, which is abiding to the laws of quantum mechanics, Energy le
 
 
 
-## sources
+## Sources
 - Faye, Jan (2019) Copenhagen Interpretation of Quantum Mechanics Stanford *Encyclopedia of Philosophy.*
 - Capellmann, H. (2021). Space-Time in Quantum Theory. _Foundations of Physics_, _51_(2), 44. https://doi.org/10.1007/s10701-021-00441-0
 - Zinkernagel, Henrik (2015) _Are we living in a quantum world? Bohr and quantum fundamentalism_ One hundred years of the Bohr atom: Proceedings from a conference (Edited by F. Aaserud and H. Kragh). Scientia Danica. Series M: Mathematica et physica, vol. 1., 2015. pp. 419-434. ISSN 1904-5514
