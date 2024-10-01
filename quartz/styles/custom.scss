@@ -517,6 +517,8 @@ blockquote {
 
 }
 
+
+// blockquotes italic in dark theme, allerdings nicht Embeds
 [saved-theme="dark"] blockquote {
 
    font-style: italic;
@@ -537,6 +539,7 @@ blockquote.transclude {
   border-left: 2px solid var(--linkcolor) !important;
 
   transition: border-color .2s;
+  font-style: normal;
 
 }
 
@@ -548,6 +551,7 @@ blockquote.transclude  h1 {
 
  font-size: 1.25em;
  color: var(--linkcolor);
+ 
 
 }
 
