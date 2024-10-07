@@ -18,7 +18,7 @@ tags:
 
 I wrote my thesis in Psychology about "*Experimenter-expectancy-effects based on Quantum Mechanics*" – sounds more advanced than it is. But since then I am a great Enthusiast of QM.
 
-In this space I want to have conversations and share facts about **Quantum mechanics (QM) in simple understandable bits and bites** for anyone – especially for people who have also not studied physics or mathematics (like myself). **You dont have to understand complicated formulas to read and talk about QM.**
+In this space I want to have conversations and share facts about **Quantum mechanics (QM) in simple understandable bits and bites** for anyone – especially for people who have also not studied physics or mathematics (like myself). 
 
 Instead I wanna focus on the philosophical aspects of QM, but in a highly scientific manner. I have always been a holistic system thinker, interested in how "systems" work.
 
@@ -27,7 +27,7 @@ Instead I wanna focus on the philosophical aspects of QM, but in a highly scient
 
 I have the pleasure of being friends with some Quantum-scientists like Marcus Reid @[Quantum Power Munich](https://quantumpowermunich.de/). Every time we share a beer together I feel like my worldview is getting more and more completed and destroyed at the same time (in a dualistic way).
 
-As I learn more about the quantum realm I want to share my understandings in my own words for you.
+As I learn more about the quantum realm I want to share my understandings in my own words.
 Enjoy the read. 
 
 ## INDEX
@@ -46,11 +46,13 @@ Enjoy the read.
 
 I get it, QM sounds intimidating. 
 “Things like that can only be understood by math geniuses” – I learned that in school. 
-When I asked my math teacher about the theory of relativity. He laughed at me and told me I would never understand it, so there is no point in explaining it to me. Nowadays you’ll find hundreds of good videos on youtube explaining the theory from different perspectives. If you watch a few, one of the different explainations will eventually click. 
+When I asked my math teacher about the theory of relativity. He laughed at me and told me I would never understand it, so there is no point in explaining it to me. 
+Nowadays you’ll find hundreds of good videos on youtube explaining the theory from different perspectives. If you watch a few, one of the different explainations will eventually click. 
 And that applies to everything else.
-Each of us thinks and visualizes differently, so many different perspectives on a topic, covering many cognitive angles makes understanding the bigger picture more likely.
 
-But unfortunately, the topic of quantum mechanic is still held hostage by  mathematicians and (particle) physicists. When those quantum scientists talk about QM, they often exclusively use language that cant be understood by the everyday person.
+Each of us thinks and visualizes differently, so many different perspectives on a topic, covering as many cognitive angles as possible makes understanding the bigger picture more likely.
+
+But unfortunately, the topic of quantum mechanic is still held hostage by mathematicians and (particle) physicists. When those quantum scientists talk about QM, they often exclusively use language that can’t be understood by the everyday person.
 
 
 $$
@@ -60,11 +62,10 @@ i\hbar \frac{\partial}{\partial t} \Psi (\mathbf{r}, t) = \left( -\frac{\hbar^2}
 $$
 
 
-I’ll be honest, formulas like this look really scary.
-(That is the [[Schrödinger equation]], which describes the wavefunction of a particle.)
+I’ll be honest, formulas like this look really scary, if you have no backgroung in math.
+(That is the [[Schrödinger equation]] by the way, which describes the wavefunction of a particle.)
 
 But QM is not just all about numbers and graphs and complicated formulas. 
-One of my favorite books is *Physics and Philosophy* by Werner Heisenberg (one of the founders of quantum mechanics).  There is hardly any math in there.
+One of my favorite books is *Physics and Philosophy* by Werner Heisenberg (one of the founders of quantum mechanics).  There is hardly any math formulas in there.
 
-**You dont have to understand Schrödinger equation to read and talk about QM.**
 

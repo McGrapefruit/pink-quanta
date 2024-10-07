@@ -15,7 +15,7 @@ tags:
 ---
 ### Communication
 
-Communication consumes me. I'm convinced that [[Communication and QM|communication creates a sur-plus]] and that we can achieve amazing things through sharing our knowledge.
+Communication consumes me. I'm convinced that [[quanta/Communication|communication creates a sur-plus]] and that we can achieve amazing things through sharing our knowledge.
 
 
 ![[psychology_communication.png|500]]

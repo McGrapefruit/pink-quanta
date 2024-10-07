@@ -27,7 +27,7 @@ Pleasure to meet you!
 
 ##### Why make this page?
 
-I'm convinced that [[Communication and QM|communication creates a sur-plus]] and that we can achieve amazing things through sharing our knowledge, and having conversations about the things we are each passionate about.
+I'm convinced that [[quanta/Communication|communication creates a sur-plus]] and that we can achieve amazing things through sharing our knowledge, and having conversations about the things we are each passionate about.
 
 Feel free to say hi or start a conversation over mastodon / email.
 
@@ -35,7 +35,7 @@ Feel free to say hi or start a conversation over mastodon / email.
 
 - [[Psychology]]
 - [[quantum-mechanics|Quantum Mechanics (QM)]] 
-- [[Communication]]
+- [[spaces/Communication]]
 - [[obsidian_md|Obsidian.md]]
 - [[Photography]]
 

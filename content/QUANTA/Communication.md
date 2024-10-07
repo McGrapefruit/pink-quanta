@@ -2,22 +2,24 @@
 aliases:
   - Communication creates a sur-plus
 date_created: 2024-04-10  23:12:11
-date_modified: 2024-04-11  14:26:52
+date_modified: 2024-10-07  11:37:20
 draft: 
 language: English
-title: Communication and QM
+space:
+  - "[[quantum-mechanics]]"
+title: Communication
 type: 
 related-to: 
 tags:
   - Communication
   - QM
-space:
-  - "[[quantum-mechanics]]"
 ---
 
 
 ![[psychology_communication.png|500]]
-## What [[quantum-mechanics|QM]] and Communication have in common
+
+## Communication creates a sur-plus
+
 The *Theodor Schulz von Thun* claims among other psychologists, that in communication one plus one equals three.
 
 > The oversummativity equation: 1 + 1 = 3

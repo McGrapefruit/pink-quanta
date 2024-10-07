@@ -52,8 +52,8 @@ His works have been showcased in renowned institutions like the Victoria & Alber
 
 
 
-
-- [[Stories behind i-D’s[](KALEIDOS.md) covers]]
+- [[THD (1996) - USA-TV 1 & 2]]
+- [[Stories behind i-D’s most iconic covers]]
 - [[THD Random pics]]
 - [[THD_1991-1994-Miami]]
 

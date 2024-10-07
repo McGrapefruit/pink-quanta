@@ -14,7 +14,7 @@ This is a zettelkasten of collective knowledge, curated by me - [[about me|Nikol
 
 The purpose of this site is to connect with likeminded people and to discuss ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art.
 
-I'm convinced that [[Communication and QM|communication creates a sur-plus]] and that we can achieve amazing things through sharing our knowledge, and having conversations about the things we are each passionate about.
+I'm convinced that [[quanta/Communication|communication creates a sur-plus]] and that we can achieve amazing things through sharing our knowledge, and having conversations about the things we are each passionate about.
 
 Pleasure to meet you![^1]
 
@@ -44,7 +44,7 @@ Topics I like to think and talk about:
 - [[quantum-mechanics|Quantum Mechanics (QM)]]
 - [[obsidian_md|Obsidian.md]]
 - [[Psychology]]
-- [[Communication]]
+- [[spaces/Communication]]
 
 
 
