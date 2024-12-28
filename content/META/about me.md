@@ -36,5 +36,5 @@ I am a system thinker.
 
 
 
-> **Think outside the box, an remember - there is no box!**
+> **Think outside the box, and remember – there is no box!**
 
