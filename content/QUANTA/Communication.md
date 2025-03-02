@@ -3,7 +3,7 @@ aliases:
   - Communication creates a sur-plus
 date_created: 2024-04-10  23:12:11
 date_modified: 2024-10-07  11:37:20
-draft: 
+draft: false
 language: English
 space:
   - "[[quantum-mechanics]]"

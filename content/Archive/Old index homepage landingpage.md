@@ -1,42 +1,55 @@
 ---
-date_created: 2024-07-21  19:56:27
-date_modified: 2024-07-21  20:24:38
-draft: true
-language: 
-title: new homepage test
+date_created: 2024-02-10  03:51:18
+date_modified: 2024-03-15  20:55:09
+title: A Quantum Conversation
 type: 
 related-to: 
-tags:
-  - Draft
+draft: true
 ---
 
 Hi there!
 
-The purpose of this site is to connect with likeminded people and to discuss ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art – the concept is still evolving[^1]. 
+Welcome to my *digital garden*.
+This is a zettelkasten of collective knowledge, curated by me - [[about me|Nikolaus Leonard]].
 
-I am not the sole author of this content. It's a zettelkasten of collective knowledge, curated by me - [[about me|Nikolaus Leonard]].
-
-Pleasure to meet you!
-
-![[Nikolaus_leonard.jpg|600]]
-
-##### This site follows one simple rule
-[[spaces|Blue is for reference WHERE &WHAT]], ==PINK is the indicator (HOW/WHY).==
-
-**Before your read further:** **Consider using this site in darkmode**, to fully emerse with the content. (Use the sun/moon icon near the search function)
-
-##### Why make this page?
+The purpose of this site is to connect with likeminded people and to discuss ==transdisziplinary insights== and [[Syntopy|syntopic concepts]], combining academia, science and art.
 
 I'm convinced that [[quanta/Communication|communication creates a sur-plus]] and that we can achieve amazing things through sharing our knowledge, and having conversations about the things we are each passionate about.
 
-Feel free to say hi or start a conversation over mastodon / email.
+Pleasure to meet you![^1]
 
-## index of topics / Spaces
+![[Nikolaus_leonard.jpg|600]]
 
-- [[Psychology]]
-- [[quantum-mechanics|Quantum Mechanics (QM)]] 
-- [[spaces/Communication]]
-- [[obsidian_md|Obsidian.md]]
+### How to use this site
+
+**Consider using this site in darkmode**, to fully emerse with the content. (Use the sun/moon icon near the search function)
+You can adjust the text-size with your browser to your liking.
+
+The site follows one simple design rule:
+[[spaces|Click-able links are blue, they provide reference (who, what & where)]], ==pink is the indicator (how / why)==
+
+
+Rather than long linear articles, the site consists of many shorter, but interconnected notes which together form a *digital-neural-network* that grows over time. 
+This enables a special kind of reading experience, where you can **choose your own path through the rabbithole and follow your curiosity.**
+
+On the right sidebar (or bottom if you are on mobile ) you find Backlinks to related notes. If you are on Desktop, use the graphview to discover more related topics. The search function provides fulltext-search over all pages – use keyword to find your way around.
+
+
+
+
+
+## INDEX 
+Topics I like to think and talk about:
+
 - [[Photography]]
+- [[quantum-mechanics|Quantum Mechanics (QM)]]
+- [[obsidian_md|Obsidian.md]]
+- [[Psychology]]
+- [[spaces/Communication]]
 
-[^1]: Having built a lot of wordpress websites for clients in the past, it's an unusual feeling for me to publish a site in a permanently "unfinished" state containing drafts. But thats the idea of an evolving *digital garden*
+
+
+
+
+
+[^1]: Feel free to say hi or start a conversation over mastodon / email. Always interested in getting to know new folks.
