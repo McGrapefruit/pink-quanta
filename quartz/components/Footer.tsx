@@ -23,9 +23,9 @@ export default ((opts?: Options) => {
               <a href={detail.link}><i style={iconstyle} class={fontclass}></i> {text}</a>
             </li>
           )})}
-          <li><a href="https://aus.social/@purposeofpomelo"><i class="fa-brands fa-mastodon"></i> Mastodon</a></li>
-          <li>|&nbsp;&nbsp;<a href="https://www.instagram.com/magiconionman/"><i class="fa-brands fa-instagram"></i> Instagram</a></li>
-          <li>|&nbsp;&nbsp;<a href="/META/Privacy"><i class="fa-solid fa-lock"></i> Privacy</a></li>
+         {/* <li><a href="https://aus.social/@purposeofpomelo"><i class="fa-brands fa-mastodon"></i> Mastodon</a></li>
+          <li>|&nbsp;&nbsp;<a href="https://www.instagram.com/magiconionman/"><i class="fa-brands fa-instagram"></i> Instagram</a></li>*/}
+          <li>&nbsp;&nbsp;<a href="/META/Privacy"><i class="fa-solid fa-lock"></i> Privacy</a></li>
           <li>|&nbsp;&nbsp;<a href="/META/Impressum"><i class="fa-solid fa-address-card"></i> Impressum</a></li> 
         </ul>
         <p>

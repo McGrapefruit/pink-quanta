@@ -5,11 +5,11 @@ aliases:
   - test sheet
 date_created: 2024-02-10  04:38:54
 date_modified: 2024-04-25  20:56:39
-draft: 
-language: 
+draft:
+language:
 title: Pink Quanta Theme
 tags:
-  - Pink-Quanta
+  - meta
 ---
 
 

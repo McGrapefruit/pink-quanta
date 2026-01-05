@@ -1,12 +1,13 @@
 ---
 date_created: 2024-06-02  01:17:15
 date_modified: 2024-06-02  01:24:08
-draft: 
-language: 
+draft:
+language:
 title: Privacy Policy
-type: 
-related-to: 
+type:
+related-to:
 tags:
+  - meta
 ---
 ##### No Cookies
 

@@ -18,4 +18,4 @@ A Non-Zero-Sum Game is **a situation where one's win does not necessarily mean 
 
 In a Non-Zero-Sum Game, all parties could gain, or all parties could lose.
 
-	[[Syntopy]] is easy, if you share Non-zero-sum games with other market palyers
+[[Syntopy]] is easy, if you share Non-zero-sum games with others.

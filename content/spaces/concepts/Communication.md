@@ -8,12 +8,13 @@ language: English
 space:
   - "[[quantum-mechanics]]"
 title: Communication
-type: 
-related-to: 
+type:
+related-to:
+  - "[[The Psychology of Language]]"
 tags:
   - Communication
-  - QM
 ---
+
 
 
 ![[psychology_communication.png|500]]

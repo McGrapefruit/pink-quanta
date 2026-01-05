@@ -1,12 +1,13 @@
 ---
 date_created: 2024-06-02  01:17:09
 date_modified: 2024-06-02  01:57:21
-draft: 
-language: 
+draft:
+language:
 title: IMPRESSUM
-type: 
-related-to: 
+type:
+related-to:
 tags:
+  - meta
 ---
 
 
@@ -14,20 +15,19 @@ tags:
 **Angaben gemäß § 5 TMG**
 
 Nikolaus Leonard Bergner
-Poststraße 20
-D-06618 Naumburg (Saale)
+Wenzberg 24
+82057 Icking
 Germany
 
 **Kontakt**
 
-Telefon: +49 3445 2695746
 E-Mail: mail@`this-url`.de
 
 **Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV**
 
 Nikolaus Leonard Bergner
-Poststraße 20
-D-06618 Naumburg (Saale)
+Wenzberg 24
+82057 Icking
 Germany
 
 ### Haftung für Inhalte

@@ -20,4 +20,5 @@ Syntopy suggests that two formally unrelated qualities are brought together at o
 There is no universally accepted definition of the concept of syntopy. In neuroscience, the term "syntopy" was coined by [Prof. Dr. Ernst Pöppel](http://de.wikipedia.org/wiki/Ernst_P%C3%B6ppel) at the Institute for Medical Psychology of LMU Munich. 
 
 
+Syntopic collaborations are often times organised in a [[Holacracy|holocratic]] way.
 
